@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Tue May 26 09:18:02 EDT 2015
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=exam-shayganfar-2.tex
+outputFile=exam-shayganfar-2.pdf
+langSpell=en
+markDer=true
+srcDir=
