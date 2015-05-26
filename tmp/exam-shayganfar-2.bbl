@@ -1,3 +1,280 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{10}
+
+\bibitem{adam:bdi-emotional-companion}
+Carole Adam and Emiliano Lorini.
+\newblock A {BDI} emotional reasoning engine for an artificial companion.
+\newblock In {\em Workshop on Agents and multi-agent Systems for AAL and
+  e-HEALTH (PAAMS)}, volume 430, pages 66--78. Springer, 2014.
+
+\bibitem{beheshtifar:social-intelligence-leadership}
+Malikeh Beheshtifar and Fateme Roasaei.
+\newblock Emotional intelligence: a review and appraisal.
+\newblock {\em The Journal of Public Management}, 28(2):197--203, 2012.
+
+\bibitem{bradberry:ability-skill-intelligence}
+Travis~R. Bradberry and Lac~D. Su.
+\newblock Ability-versus skill-based assessment of emotional intelligence.
+\newblock {\em Psicothema}, 18(Suppl):59--66, 2006.
+
+\bibitem{bretherton:emotions-functionalist}
+Inge Bretherton, Janet Fritz, Carolyn Zahn-Waxler, and Doreen Ridgeway.
+\newblock Learning to talk about emotions: A functionalist perspective.
+\newblock {\em Child Development}, 57(3):529--548, 1986.
+
+\bibitem{pomerol:ai-decision-making}
+Jean charles Pomerol.
+\newblock Artificial intelligence and human decision making.
+\newblock {\em European Journal of Operational Research}, 99:3--25, 1997.
+
+\bibitem{clore:judgement-regulation}
+Gerald~L. Clore and Jeffrey~R. Huntsinger.
+\newblock How emotions inform judgment and regulate thought.
+\newblock {\em Trends in Cognitive Sciences}, 11(9):393--399, 2007.
+
+\bibitem{clore:affective-guidance}
+Gerald~L. Clore and Janet Palmer.
+\newblock Affective guidance of intelligent agents: How emotion controls
+  cognition.
+\newblock {\em Cognitive System Research}, 10(1):21--30, 2009.
+
+\bibitem{coan:emotion-dyadic}
+James~A. Coan and John~J.B. Allen.
+\newblock {\em Handbook of Emotion Elicitation and Assessment}.
+\newblock Oxford University Press, USA, 2007.
+
+\bibitem{darwin:emotion-expression}
+Charles Darwin.
+\newblock {\em The expression of the emotions in man and animals}.
+\newblock New York; D. Appleton and Co., 1916.
+
+\bibitem{dautenhahn:social-autonomous-robots}
+Kerstin Dautenhahn.
+\newblock Getting to know each other - artificial social intelligence for
+  autonomous robots.
+\newblock {\em Robotics and Autonomous Systems}, 16:333--356, 1995.
+
+\bibitem{gratch:reverse-appraisal}
+Celso~M. de~Melo, Jonathan Gratch, Peter Carnevale, and Stephen~J. Read.
+\newblock Reverse appraisal: The importance of appraisals for the effect of
+  emotion displays on people's decision-making in social dilemma.
+\newblock In {\em Proceedings of the 34th Annual Meeting of the Cognitive
+  Science Society ({CogSci})}, 2012.
+
+\bibitem{depaulo:nonverbal-behavior}
+Bella~M. DePaulo.
+\newblock Nonverbal behavior and self-presentation.
+\newblock {\em Psychological Bulletin}, 111(2):203--243, 1992.
+
+\bibitem{dreyfus:artificial-critique}
+Hubert~L. Dreyfus.
+\newblock {\em What Computers Still Can'T Do: A Critique of Artificial Reason}.
+\newblock MIT Press, 1992.
+
+\bibitem{ekman:argument-emotions}
+Paul Ekman.
+\newblock An argument for basic emotions.
+\newblock {\em Cognition \& Emotion}, 6(3-4):169--200, 1992.
+
+\bibitem{folkman:coping-pitfalls-promise}
+Susan Folkman and Judith~T. Moskowitz.
+\newblock Coping: Pitfalls and promise.
+\newblock {\em Annual Review of Psychology}, 55:745--774, 2004.
+
+\bibitem{frijda:emotions}
+Nico~H. Frijda.
+\newblock {\em The Emotions}.
+\newblock Cambridge University Press, 1986.
+
+\bibitem{gmytrasiewicz:emotion-agent-decision}
+Piotr~J. Gmytrasiewicz and Christine~L. Lisetti.
+\newblock Emotions and personality in agent design and modeling.
+\newblock In John-Jules~Ch. Meyer and Milind Tambe, editors, {\em ATAL}, volume
+  2333 of {\em Lecture Notes in Computer Science}, pages 21--31. Springer,
+  2001.
+
+\bibitem{goffman:self-presentation}
+Erving Goffman.
+\newblock {\em The Presentation of Self in Everyday Life}.
+\newblock Anchor, 1959.
+
+\bibitem{gratch:domain-independent}
+Jonathan Gratch and Stacy C.Marsella.
+\newblock A domain-independent framework for modeling emotion.
+\newblock {\em Cognitive Systems Research}, 5(4):269--306, 2004.
+
+\bibitem{gross:emotion-generation-regulation}
+James~J. Gross, Gal Sheppes, and Heather~L. Urry.
+\newblock Emotion generation and emotion regulation: A distinction we should
+  make (carefully).
+\newblock {\em Cognition and Emotion}, 25(5):765--781, 2011.
+
+\bibitem{GrossbergGutowski:affect-cognition}
+S.~Grossberg and W.~E. Gutowski.
+\newblock Neural dynamics of decision making under risk: Affective balance and
+  cognitive-emotional interactions.
+\newblock {\em Psychological Review}, 94(3):300--318, 1987.
+
+\bibitem{hareli:emotional-reaction-perception}
+Shlomo Hareli and Ursula Hess.
+\newblock What emotional reactions can tell us about the nature of others: An
+  appraisal perspective on person perception.
+\newblock {\em Cognition \& Emotion}, 24(1):128--140, 2009.
+
+\bibitem{hazan:emotion-attachment}
+Cindy Hazan and Phillip Shaver.
+\newblock Romantic love conceptualized as an attachment process.
+\newblock {\em Personality \& Social Psychology}, 52(3):511--524, 1987.
+
+\bibitem{hess:darwin-emotion}
+Ursula Hess and Pascal Thibault.
+\newblock Darwin and emotion expression.
+\newblock {\em American Psychologist}, 64(2):120--128, 2009.
+
+\bibitem{keating:search-social-intelligence}
+Daniel~P. Keating.
+\newblock A search for social intelligence.
+\newblock {\em Journal of Educational psychology}, 70:218--223, 1978.
+
+\bibitem{keltner:emotion-functions}
+Dacher Keltner and Jonathan Haidt.
+\newblock Social functions of emotions at four levels of analysis.
+\newblock {\em Cognition and Emotion}, 13(5):505--521, 1999.
+
+\bibitem{kim:model-hri-appraisal}
+Hyoung-Rock Kim and Dong-Soo Kwon.
+\newblock Computational model of emotion generation for human-robot interaction
+  based on the cognitive appraisal theory.
+\newblock {\em Journal of Intelligent and Robotic Systems}, 60(2):263--283,
+  2010.
+
+\bibitem{kleef:emotion-regulate-social}
+Gerben A.~Van Kleef.
+\newblock How emotions regulate social life: The emotions as social information
+  {(EASI)} model.
+\newblock {\em Current Directions in Psychological Science}, 18(3):184--188,
+  2009.
+
+\bibitem{lazarus:emotion-adaptation}
+Richard~Stanley Lazarus.
+\newblock {\em Emotion and Adaptation}.
+\newblock OXFORD University Press, 1991.
+
+\bibitem{levenson:affective-exchange}
+Robert~W. Levenson and John~M. Gottman.
+\newblock Martial interaction: Physiological linkage and affective exchnage.
+\newblock {\em Personality and Social Psychology}, 45(3):587--597, 1983.
+
+\bibitem{parkinson:emotion-social-interaction}
+Claudia Marinetti, Penny Moore, Pablo Lucas, and Brian Parkinson.
+\newblock Emotions in social interactions: Unfolding emotional experience.
+\newblock In {\em Emotion-Oriented Systems, Cognitive Technologies}, pages
+  31--46. Springer Berlin Heidelberg, 2011.
+
+\bibitem{marsella:ema-process-model}
+Stacy~C. Marsella and Jonathan Gratch.
+\newblock {EMA}: A process model of appraisal dynamics.
+\newblock {\em Cognitive Systems Research}, 10(1):70--90, March 2009.
+
+\bibitem{louis:communication-dynamic}
+Louis~Philippe Morency.
+\newblock Computational study of human communication dynamic.
+\newblock In {\em Proceedings of the 2011 Joint ACM Workshop on Human Gesture
+  and Behavior Understanding}, pages 13--18. ACM, 2011.
+
+\bibitem{parkinson:emotions-social}
+Brian Parkinson.
+\newblock Emotions are social.
+\newblock {\em British Journal of Psychology}, 87(4):663--683, 1996.
+
+\bibitem{parkinson:emotion-communication}
+Brian Parkinson.
+\newblock Do facial movements express emotions or communicate motives?
+\newblock {\em Personality and Social Psychology Review}, 9(4):278--311, 2005.
+
+\bibitem{parkinson:holds-emotion}
+Brian Parkinson.
+\newblock What holds emotions together? meaning and response coordination.
+\newblock {\em Cognitive System Research}, 10(1):31--47, 2009.
+
+\bibitem{parrott:appraisal-social-emotions}
+W.~Gerrod Parrott.
+\newblock Appraisal, emotion words, and the social nature of self-conscious
+  emotions.
+\newblock {\em Psychological Inquiry}, 15(2):136--138, 2004.
+
+\bibitem{paulus:emotion-decision-belief}
+Martin~P. Paulus and Angela~J. Yu.
+\newblock Emotion and decision-making: affect-driven belief systems in anxiety
+  and depression.
+\newblock {\em Trends in cognitive sciences}, 16(9):476--483, 2012.
+
+\bibitem{sander:systems-approach-appraisal}
+David Sander, Didier Grandjean, and Klaus~R. Scherer.
+\newblock A systems approach to appraisal mechanisms in emotion.
+\newblock {\em Neural Networks}, 18(4):317--352, 2005.
+
+\bibitem{scherer:nature-function-emotion}
+Klaus~R. Scherer.
+\newblock On the nature and function of emotion: A component process approach.
+\newblock In Klaus~R. Scherer and Paul Ekman, editors, {\em Approaches To
+  Emotion}, pages 293--317. Lawrence Erlbaum, Hillsdale, NJ, 1984.
+
+\bibitem{scherer:vocal-expression}
+Klaus~R. Scherer.
+\newblock Vocal affect expression: A review and a model for future research.
+\newblock {\em Psychological Bulletin}, 99(2):143--165, 1986.
+
+\bibitem{scherer:sequential-appraisal-process}
+Klaus~R. Scherer.
+\newblock On the sequential nature of appraisal processes: Indirect evidence
+  from a recognition task.
+\newblock {\em Cognition \& Emotion}, 13(6):763--793, 1999.
+
+\bibitem{scherer:appraisal-processes}
+Klaus~R. Scherer, Angela Schorr, and Tom Johnstone.
+\newblock {\em Appraisal Processes in Emotion: Theory, Methods, Research:
+  Theory, Methods, Research}.
+\newblock Oxford University Press, 2001.
+
+\bibitem{shott:emotion-social-life}
+Susan Shott.
+\newblock Emotion and social life: A symbolic interactionist analysis.
+\newblock {\em The American Journal of Sociology}, 84(6):1317--1334, 1979.
+
+\bibitem{thoits:socialogy-emotion}
+Peggy~A. Thoits.
+\newblock The sociology of emotion.
+\newblock {\em Anuual Review of Sociology}, 15:317--342, 1989.
+
+\bibitem{tiedens:social-life}
+Larissa~Z. Tiedens and Colin~Wayne Leach.
+\newblock {\em The Social Life of Emotions (Studies in Emotion and Social
+  Interaction)}.
+\newblock Cambridge University Press, 2004.
+
+\bibitem{wexler:emotional-intelligence-appraisal}
+Mark~N. Wexler.
+\newblock Emotional intelligence: a review and appraisal.
+\newblock {\em The Journal of Public Management}, 30(2):1--8, 2000.
+
+\bibitem{wisecup:sociology-emotions}
+Allison~K. Wisecup, Dawn~T. Robinson, and Lynn Smith-Lovin.
+\newblock {\em The Sociology of Emotions}.
+\newblock SAGE Publications, Inc., 2007.
+
+\bibitem{worden:primate-social-intelligence}
+Robert~P. Worden.
+\newblock Primate social intelligence.
+\newblock {\em Cognitive Science}, 20(4):579--616, 1996.
+
+\bibitem{zajonc:social-facilitation}
+Robert~B. Zajonc.
+\newblock Social facilitation.
+\newblock {\em Science}, 149(3681):269--274, 1965.
+
+\bibitem{zhu:emotion-action}
+Jing Zhu and Paul Thagard.
+\newblock Emotion and action.
+\newblock {\em Journal of Philosophical Psychology}, 15(1):19--36, 2002.
 
 \end{thebibliography}
