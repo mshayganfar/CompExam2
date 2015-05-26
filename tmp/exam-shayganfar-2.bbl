@@ -6,6 +6,16 @@ Carole Adam and Emiliano Lorini.
 \newblock In {\em Workshop on Agents and multi-agent Systems for AAL and
   e-HEALTH (PAAMS)}, volume 430, pages 66--78. Springer, 2014.
 
+\bibitem{mehrabian:pad}
+Iris Bakker, Theo van~der Voordt, Peter Vink, and Jan de~Boon.
+\newblock Pleasure, arousal, dominance: Mehrabian and russell revisited.
+\newblock {\em Current Psychology}, 33(3):405--421, 2014.
+
+\bibitem{barrett:emotions-natural}
+Lisa~Feldman Barrett.
+\newblock Are emotions natural kinds?
+\newblock {\em Perspectives on Psychological Science}, 1(1):28--58, 2006.
+
 \bibitem{beheshtifar:social-intelligence-leadership}
 Malikeh Beheshtifar and Fateme Roasaei.
 \newblock Emotional intelligence: a review and appraisal.
@@ -20,6 +30,12 @@ Travis~R. Bradberry and Lac~D. Su.
 Inge Bretherton, Janet Fritz, Carolyn Zahn-Waxler, and Doreen Ridgeway.
 \newblock Learning to talk about emotions: A functionalist perspective.
 \newblock {\em Child Development}, 57(3):529--548, 1986.
+
+\bibitem{carver:affect-behavior}
+Charles~S. Carver.
+\newblock Affect and the functional bases of behavior: On the dimensional
+  structure of affective experience.
+\newblock {\em Personality and Social Psychology Review}, 5(4):345--356, 2001.
 
 \bibitem{pomerol:ai-decision-making}
 Jean charles Pomerol.
@@ -175,6 +191,11 @@ Stacy~C. Marsella and Jonathan Gratch.
 \newblock {EMA}: A process model of appraisal dynamics.
 \newblock {\em Cognitive Systems Research}, 10(1):70--90, March 2009.
 
+\bibitem{mehrabian-russell:pad}
+Albert Mehrabian and James~A. Russell.
+\newblock {\em An approach to environmental psychology}.
+\newblock The MIT Press, 1974.
+
 \bibitem{louis:communication-dynamic}
 Louis~Philippe Morency.
 \newblock Computational study of human communication dynamic.
@@ -207,6 +228,23 @@ Martin~P. Paulus and Angela~J. Yu.
 \newblock Emotion and decision-making: affect-driven belief systems in anxiety
   and depression.
 \newblock {\em Trends in cognitive sciences}, 16(9):476--483, 2012.
+
+\bibitem{posner:circumplex-affect}
+JONATHAN POSNER, JAMES~A. RUSSELL, and BRADLEY~S. PETERSON.
+\newblock The circumplex model of affect: An integrative approach to affective
+  neuroscience, cognitive development, and psychopathology.
+\newblock {\em Development and Psychopathology}, null(3):715--734, 2005.
+
+\bibitem{russell:circumplex-affect}
+James~A. Russell.
+\newblock A circumplex model of affect.
+\newblock {\em Journal of Personality and Social Psychology}, 39(6):1161--1178,
+  1980.
+
+\bibitem{russell:core-affect}
+James~A. Russell.
+\newblock Core affect and the psychological construction of emotion.
+\newblock {\em Psychological Review}, pages 145--172, 2003.
 
 \bibitem{sander:systems-approach-appraisal}
 David Sander, Didier Grandjean, and Klaus~R. Scherer.
@@ -251,6 +289,11 @@ Larissa~Z. Tiedens and Colin~Wayne Leach.
 \newblock {\em The Social Life of Emotions (Studies in Emotion and Social
   Interaction)}.
 \newblock Cambridge University Press, 2004.
+
+\bibitem{watson:consensual-structure-mood}
+David Watson and Auke Tellegen.
+\newblock Toward a consensual structure of mood.
+\newblock {\em Psychological Bulletin}, 98(2):219--235, 1985.
 
 \bibitem{wexler:emotional-intelligence-appraisal}
 Mark~N. Wexler.

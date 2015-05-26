@@ -49,7 +49,14 @@ the influence of emotion.
 
 \section{Computational Theories of Emotion/Affect}
 
-\subsection{Appraisal Theory of Emotions}
+There are different types of computational theories of emotion. These theories
+differ in type of relationships between their components and whether a
+particular component play a cricual role in an individual emotion. For instance,
+the basic component of an emotion can be the behavioral tendencies, cognitive
+elements, or somatic processes. Emotion theories can also differ based on their
+representationial distinction.
+
+\subsection{Appraisal Theory}
 
 The emotional experience is the experience of a particular situation
 \cite{frijda:emotions}. Appraisal theory describes the cognitive process by
@@ -61,16 +68,66 @@ and then feels an appropriate emotion \cite{scherer:appraisal-processes}. The
 appraisal procedure begins with the evaluation process of the environment
 according to the internalized goals and is based on systematic assessment of
 several elements \cite{scherer:sequential-appraisal-process}. The outcome of
-this process triggers the appropriate emotions. At the end, the Coping mechanism
-manages the individual's action with respect to the individual's emotional state
-and the existing internal and/or external demands
-\cite{folkman:coping-pitfalls-promise}. An individual can also use knowledge
-about the emotional reactions of others to make inferences about them.
-According to the appraisal patterns, different emotions can be experienced
-and expressed. Since expression of emotions reflects one's intentions through
-the appraisal process, the \textit{reverse appraisal} mechanism helps one to
-infer other's mental states based on their expressions.
+this process triggers the appropriate emotions. In many versions of the
+appraisal theory, appraisals also trigger cognitive responses often called
+coping strategies. In fact, the coping mechanism manages the individual's
+action with respect to the individual's emotional state and the existing
+internal and/or external demands \cite{folkman:coping-pitfalls-promise}. The
+large majority of computational models of emotions are based on this theory. An
+individual can also use knowledge about the emotional reactions of others to
+make inferences about them. According to the appraisal patterns, different
+emotions can be experienced and expressed. Since expression of emotions reflects
+one's intentions through the appraisal process, the \textit{reverse appraisal}
+mechanism helps one to infer other's mental states based on their expressions.
 \cite{gratch:reverse-appraisal, hareli:emotional-reaction-perception}.
+
+Appraisal process is typically viewed as the cause of emotion and the cognitive
+and behavioral changes associated with emotion. For instance, which particular
+pattern of the appraisal variables (i.e., individual judgements) would elicit
+certain emotion or an emotional expressions.\\
+
+- List and brief description of appriasal variables.
+
+\subsection{Dimensional Theories}
+
+Dimensional theories of emotion argue that emotion should be conceptualized, as
+points in a continuous (typically two or three) dimensional space rather than
+looking at them as discrete entities (\cite{carver:affect-behavior},
+\cite{mehrabian-russell:pad}, \cite{russell:core-affect},
+\cite{watson:consensual-structure-mood}). Indeed, many dimensional theories
+argue that discrete emotion categories (e.g., sadness, fear and anger) have no
+``reality'' in that there are no specific brain regions or functions that
+correspond to specific emotions \cite{barrett:emotions-natural}. Dimensional
+theories do not emphasize the term emotion. Many computational dimensional
+models build on the three dimensional “PAD” model of Mehrabian and Russell
+\cite{mehrabian-russell:pad} where these dimensions correspond to pleasure (a
+measure of valence), arousal (indicating the level of affective activation) and
+dominance (a measure of power or control). Figure \ref{fig:pad} shows these
+three dimensions.
+
+\begin{figure}[tbh]
+  \center
+  \includegraphics[width=.6\textwidth]{figure/dimensional2.png}
+  \caption{Three dimensional model of pleasure, arousal and dominance as
+  tripartite view of experience \cite{mehrabian:pad}.}
+  \label{fig:pad}
+\end{figure}
+
+Dimensional models of emotion attempt to conceptualize human emotions by
+defining where they lie in two or three dimensions. Some of the dimensional
+models incorporate valence and arousal or intensity dimensions. These models
+contrast theories of basic emotion, which propose that different emotions arise
+from separate neural systems \cite{posner:circumplex-affect}. One of the
+two-dimensional models that are most prominent is Russell's circumplex model
+\cite{russell:circumplex-affect}.
+
+\subsection{Other Approaches}
+
+\subsubsection{Anatomic Approaches}
+
+\subsubsection{rational Approaches}
+
+\subsubsection{Communicative Approaches}
 
 \section{Relation to Psychology and Sociology}
 
@@ -247,6 +304,38 @@ controlled emotion-eliciting events.
 
 \section{Similarities and Differences}
 
+- Rewrite this part [It is worth noting that there is a relationship between the
+dimensions of core affect and appraisal dimensions – the pleasure dimension
+roughly maps onto appraisal dimensions that characterize the valence of an
+appraisal-eliciting event (e.g., intrinsic pleasantness or goal congruence),
+dominance roughly map onto the appraisal dimension of coping potential, and
+arousal a measure of intensity. However, they have quite different meaning:
+appraisal is a relational construct characterizing the relationship between some
+specific object/event and the individual’s beliefs desires and intentions and
+several appraisals may be simultaneously active; core affect is a non-relational
+construct summarizing a unique overall state of the individual.]
+
+- Rewrite this part [Dimensional theories emphasize different components of
+emotion than appraisal theories and link these components quite differently.
+Dimensional theories foreground the structural and temporal dynamics of core
+affect and often do not address affect’s antecedents in detail. Most
+significantly, dimensional theorists question the tight causal linkage between
+appraisal and emotion that is central to appraisal accounts. Dimensional
+theorists conceive of core affect as a “non-intentional” state, meaning the
+affect is not about some object (as in “I am angry at him). In such theories,
+many factors may contribute to a change in core affect including symbolic
+intentional judgments (e.g., appraisal) but also sub-symbolic factors such as
+hormones and drugs (Schachter and Singer, 1962), but most importantly, the link
+between any preceding intentional meaning and emotion is broken (as it is not
+represented within core affect) and must be recovered after the fact, sometimes
+incorrectly (Clore and Plamer, 2009, Clore et al., 1994). For example, Russell
+argues for the following sequence of emotional components: some external event
+occurs (e.g., a bear walks out of the forest), it is perceived in terms of its
+affective quality; this perception results in a dramatic change in core affect;
+this change is attributed to some “object” (e.g., the bear); and only then is
+the object cognitively appraised in terms of its goal relevance, causal
+antecedents and future prospects (see also, Zajonc, 1980).]
+
 \section{Applications in Autonomous Agents and Robots}
 
 There are several examples in artificial intelligence and robotics of applying
@@ -262,6 +351,20 @@ appraisal theory of emotion provided by Gratch and Marsella in
 computational model of appraisal and coping. I use this appraisal approach,
 in general, as an evaluation mechanism for the internal and external events to
 assist the cognition and collaboration processes in my theory.
+
+- Rewrite this [Computational dimensional models are most often used for
+animated character behavior generation, perhaps because it translates emotion
+into a small number of continuous dimensions that can be readily mapped to
+continuous features of behavior such as the spatial extent of a gesture. For
+example, PAD models describe all behavior in terms of only three dimensions
+whereas modelers using appraisal models must either associate behaviors with a
+larger number of appraisal dimensions (see Scherer and Ellgring, 2007, Smith and
+Scott, 1997) or map appraisals into a small number of discrete, though perhaps
+intensity-varying, expressions (Elliott, 1992). For a similar reason,
+dimensional models also frequently used as a good representational framework for
+systems that attempt to recognize human emotional behavior and there is some
+evidence that they may better discriminate user affective states than approaches
+that rely on discrete labels (Barrett, 2006).]
 
 \subsection{Sociability}
 Social skills have been mostly neglected in artificial intelligence and
