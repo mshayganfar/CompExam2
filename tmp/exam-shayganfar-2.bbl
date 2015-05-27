@@ -151,6 +151,12 @@ Ursula Hess and Pascal Thibault.
 \newblock Darwin and emotion expression.
 \newblock {\em American Psychologist}, 64(2):120--128, 2009.
 
+\bibitem{hudlicka:guidelines-emotions}
+Eva Hudlicka.
+\newblock Guidelines for designing computational models of emotions.
+\newblock {\em International Journal of Synthetic Emotions}, 2(1):85--102,
+  2011.
+
 \bibitem{keating:search-social-intelligence}
 Daniel~P. Keating.
 \newblock A search for social intelligence.
@@ -191,6 +197,11 @@ Robert~W. Levenson and John~M. Gottman.
 \newblock Martial interaction: Physiological linkage and affective exchnage.
 \newblock {\em Personality and Social Psychology}, 45(3):587--597, 1983.
 
+\bibitem{leventhal:emotion-cognition}
+Howard Leventhal and Klaus Scherer.
+\newblock The relationship of emotion to cognition.
+\newblock {\em Cognition and Emotion}, 1:3--28, 1987.
+
 \bibitem{parkinson:emotion-social-interaction}
 Claudia Marinetti, Penny Moore, Pablo Lucas, and Brian Parkinson.
 \newblock Emotions in social interactions: Unfolding emotional experience.
@@ -217,6 +228,12 @@ Louis~Philippe Morency.
 Andrew Ortony, Gerald~L. Clore, and Allan Collins.
 \newblock {\em The Cognitive Structure of Emotions}.
 \newblock Cambridge University Press, 1988.
+
+\bibitem{panskepp:affective-neuroscience}
+Jaak Panskepp.
+\newblock {\em Affective Neuroscience: The Foundations of Human and Animal
+  Emotions}.
+\newblock NY:Oxford University Press, 1998.
 
 \bibitem{parkinson:emotions-social}
 Brian Parkinson.
@@ -286,8 +303,7 @@ Klaus~R. Scherer.
 
 \bibitem{scherer:appraisal-processes}
 Klaus~R. Scherer, Angela Schorr, and Tom Johnstone.
-\newblock {\em Appraisal Processes in Emotion: Theory, Methods, Research:
-  Theory, Methods, Research}.
+\newblock {\em Appraisal Processes in Emotion: Theory, Methods, Research}.
 \newblock Oxford University Press, 2001.
 
 \bibitem{shott:emotion-social-life}

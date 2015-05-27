@@ -3,49 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: exam-shayganfar-2.aux
 The style file: plain.bst
 Database file #1: mshayganfar.bib
-Repeated entry---line 875 of file mshayganfar.bib
- : @article{scherer:vocal-expression
- :                                  ,
-I'm skipping whatever remains of this entry
-You've used 62 entries,
+You've used 65 entries,
             2118 wiz_defined-function locations,
-            864 strings with 13248 characters,
-and the built_in function-call counts, 19559 in all, are:
-= -- 1982
-> -- 723
+            878 strings with 13617 characters,
+and the built_in function-call counts, 20375 in all, are:
+= -- 2067
+> -- 750
 < -- 8
-+ -- 301
-- -- 224
-* -- 1356
-:= -- 3236
-add.period$ -- 192
-call.type$ -- 62
-change.case$ -- 284
++ -- 313
+- -- 232
+* -- 1406
+:= -- 3375
+add.period$ -- 201
+call.type$ -- 65
+change.case$ -- 296
 chr.to.int$ -- 0
-cite$ -- 62
-duplicate$ -- 764
-empty$ -- 1671
-format.name$ -- 224
-if$ -- 4104
+cite$ -- 65
+duplicate$ -- 798
+empty$ -- 1742
+format.name$ -- 232
+if$ -- 4270
 int.to.chr$ -- 0
-int.to.str$ -- 62
-missing$ -- 74
-newline$ -- 313
-num.names$ -- 128
-pop$ -- 272
+int.to.str$ -- 65
+missing$ -- 78
+newline$ -- 328
+num.names$ -- 134
+pop$ -- 285
 preamble$ -- 1
-purify$ -- 234
+purify$ -- 244
 quote$ -- 0
-skip$ -- 504
+skip$ -- 525
 stack$ -- 0
-substring$ -- 1467
-swap$ -- 116
+substring$ -- 1525
+swap$ -- 119
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 224
+type$ -- 234
 warning$ -- 0
-while$ -- 218
-width$ -- 64
-write$ -- 681
-(There was 1 error message)
+while$ -- 229
+width$ -- 67
+write$ -- 713

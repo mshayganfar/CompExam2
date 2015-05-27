@@ -63,22 +63,58 @@ The emotional experience is the experience of a particular situation
 \cite{frijda:emotions}. Appraisal theory describes the cognitive process by
 which an individual evaluates the situation in the environment with respect to
 the individual's well-being and triggers emotions to control internal changes
-and external actions. According to this theory, appraisals are separable
-antecedents of emotion, that is, the individual first evaluates the environment
-and then feels an appropriate emotion \cite{scherer:appraisal-processes}. The
-appraisal procedure begins with the evaluation process of the environment
-according to the internalized goals and is based on systematic assessment of
-several elements \cite{scherer:sequential-appraisal-process}. The outcome of
-this process triggers the appropriate emotions. In many versions of the
-appraisal theory, appraisals also trigger cognitive responses often called
-coping strategies. In fact, the coping mechanism manages the individual's
-action with respect to the individual's emotional state and the existing
-internal and/or external demands \cite{folkman:coping-pitfalls-promise}. The
-large majority of computational models of emotions are based on this theory. An
-individual can also use knowledge about the emotional reactions of others to
-make inferences about them. According to the appraisal patterns, different
-emotions can be experienced and expressed. Since expression of emotions reflects
-one's intentions through the appraisal process, the \textit{reverse appraisal}
+and external actions.
+
+\subsubsection{Componential approach}
+\label{sec:componential-theories}
+
+This approach emphasizes the distinct components of emotions, and is often
+called the \textit{componential} appraoch \cite{leventhal:emotion-cognition}.
+The ``components" referred to in this approach are the components of the
+cognitive appraisal process. These are referred to as \textit{appraisal
+variables}, and include \textit{novelty, valence, goal relevance, goal
+congruence}, and \textit{coping abilities}
+(further on, in this section, some of the appraisal variables used in
+computational models are introduced)
+\cite{scherer:nature-function-emotion,scherer:appraisal-processes}. A stimulus,
+whether real or imagined, is analyzed in terms of its meaning and consequences
+for the agent, to determine the affective reaction. The analysis involves
+assigning specific values to the appraisal variables. Once the appraisal
+variable values are determined by the organism’s evaluative processes, the
+resulting vector is mapped onto a particular emotion, within the n-dimensional
+space defined by the n appraisal variables. The semantic primitives for
+representing emotions within this model are thus these individual appraisal
+variables. Figure \ref{fig:cpm} shows the relationship of the individual
+appraisal dimensions to the broader categories of evaluations taking place
+during appraisal (Relevance, Implications, etc.).
+
+\begin{figure}[tbh]
+  \center
+  \includegraphics[width=0.8\textwidth]{figure/cpm.png}
+  \caption{Schematic View of the Componential Theory of Emotion
+  \cite{hudlicka:guidelines-emotions}.}
+  \label{fig:cpm}
+\end{figure}
+
+\subsubsection{Appraisal Process}
+\label{sec:appraisal-process}
+
+According to this theory, appraisals are separable antecedents of emotion, that
+is, the individual first evaluates the environment and then feels an appropriate
+emotion \cite{scherer:appraisal-processes}. The appraisal procedure begins with
+the evaluation process of the environment according to the internalized goals
+and is based on systematic assessment of several elements
+\cite{scherer:sequential-appraisal-process}. The outcome of this process
+triggers the appropriate emotions. In many versions of the appraisal theory,
+appraisals also trigger cognitive responses often called \textit{coping
+strategies}. In fact, the coping mechanism manages the individual's action with
+respect to the individual's emotional state and the existing internal and/or
+external demands \cite{folkman:coping-pitfalls-promise}. The large majority of
+computational models of emotions are based on this theory. An individual can
+also use knowledge about the emotional reactions of others to make inferences
+about them. According to the appraisal patterns, different emotions can be
+experienced and expressed. Since expression of emotions reflects one's
+intentions through the appraisal process, the \textit{reverse appraisal}
 mechanism helps one to infer other's mental states based on their expressions.
 \cite{gratch:reverse-appraisal, hareli:emotional-reaction-perception}.
 
@@ -145,7 +181,7 @@ as shown in Figure \ref{fig:occ-model}.
 \begin{figure}[tbh]
   \center
   \includegraphics[width=0.9\textwidth]{figure/occ-structure.jpg}
-  \caption{OCC structure \cite{occ:structure}.}
+  \caption{OCC taxonomy of emotion triggers and emotions \cite{occ:structure}.}
   \label{fig:occ-structure}
 \end{figure}
 
@@ -173,24 +209,34 @@ since the 19th century. Dimensional models of emotion attempt to conceptualize
 human emotions by defining where they lie in two or three dimensions.
 Dimensional theories of emotion argue that emotion should be conceptualized, as
 points in a continuous (typically two or three) dimensional space rather than
-looking at them as discrete entities (\cite{carver:affect-behavior},
-\cite{mehrabian-russell:pad}, \cite{russell:core-affect},
-\cite{watson:consensual-structure-mood}). Two dimensions that are commonly
-proposed to describe emotions are valence and physiological arousal
-\cite{arnold:emotion-personality} \cite{lazarus:cognitive-theory-emotion}
-\cite{russell:circumplex-affect}. Models based on dimensional theories contrast
-theories of basic emotion, which propose that different emotions arise from
-separate neural systems \cite{posner:circumplex-affect}. Many dimensional
-theories argue that discrete emotion categories (e.g., sadness, fear and anger)
-have no ``reality'' in that there are no specific brain regions or functions
-that correspond to specific emotions \cite{barrett:emotions-natural}.
-Dimensional theories do not emphasize the term emotion.
+looking at them as discrete entities (see Section \ref{sec:discrete-emotions})
+\cite{carver:affect-behavior} \cite{mehrabian-russell:pad}
+\cite{russell:core-affect} \cite{watson:consensual-structure-mood}. 
 
 \begin{figure}[tbh]
   \center
   \includegraphics[width=.7\textwidth]{figure/core-affect.png}
   \caption{Core affect \cite{russell:core-affect}.}
   \label{fig:core-affect}
+\end{figure}
+
+Two dimensions that are commonly proposed to describe emotions are valence and
+physiological arousal \cite{arnold:emotion-personality}
+\cite{lazarus:cognitive-theory-emotion} \cite{russell:circumplex-affect}. Models
+based on dimensional theories contrast theories of basic emotion, which propose
+that different emotions arise from separate neural systems
+\cite{posner:circumplex-affect}. Many dimensional theories argue that discrete
+emotion categories (e.g., sadness, fear and anger) have no ``reality'' in that
+there are no specific brain regions or functions that correspond to specific
+emotions \cite{barrett:emotions-natural}. Dimensional theories do not emphasize
+the term emotion.
+
+\begin{figure}[tbh]
+  \center
+  \includegraphics[width=.6\textwidth]{figure/dimensional2.png}
+  \caption{Three dimensional model of pleasure, arousal and dominance as
+  tripartite view of experience \cite{mehrabian:pad}.}
+  \label{fig:pad}
 \end{figure}
 
 One of the two-dimensional models that are most prominent is Russell's
@@ -205,24 +251,53 @@ dimension is \textit{arousal}, ranging from calm to excited. Russell put a
 number of affective states around a circular space between those two dimensions
 (see Figure \ref{fig:core-affect}) which is also known as \textit{circumplex},
 representing the variety of core affects
-\cite{russell:circumplex-affect,russell:core-affect}. Some of the dimensional
-models incorporate valence and arousal as well as \textit{intensity}, or
-\textit{dominance} dimensions. Many computational dimensional models build on
-the three dimensional “PAD” model of Mehrabian and Russell
-\cite{mehrabian-russell:pad} where these dimensions correspond to pleasure (a
-measure of valence), arousal (indicating the level of affective activation) and
-dominance (a measure of power or control). Figure \ref{fig:pad} shows these
-three dimensions.
+\cite{russell:circumplex-affect,russell:core-affect}. Since sometimes
+two-dimensional space cannot easily differentiate among emotions that share the
+same values of arousal and valence, e.g., anger and fear (both characterized by
+high arousal and negative valence), some of the dimensional models incorporate
+valence and arousal as well as \textit{intensity}, or \textit{dominance}
+or stance dimensions. Many computational dimensional models build on the three
+dimensional “PAD” model of Mehrabian and Russell \cite{mehrabian-russell:pad}
+where these dimensions correspond to pleasure (a measure of valence), arousal
+(indicating the level of affective activation) and dominance (a measure of power
+or control). Figure \ref{fig:pad} shows these three dimensions.
+
+\subsection{Other Approaches}
+
+\subsubsection{Discrete approaches}
+\label{sec:discrete-emotions}
+
+Discrete theories emphasize a small set of discrete and fundamental emotions.
+The underlying assumption of this approach is that these emotions are mediated
+by associated neural circuitry, with hardwired component
+\cite{ekman:argument-emotions}. Different emotions are then characterized by
+stable patterns of triggers, behavioral expression, and associated distinct
+subjective experiences. The emotions addressed by these theories are typically
+called the \textit{basic} emotions. Emotions including happiness, sadness, fear,
+anger, surprise, and disgust are often considered to comprise the most
+prototypical basic emotions \cite{ekman:argument-emotions}. The theory of basic
+emotions holds that there is a set of emotions shared by all humans that evolved
+to deal with ancestral life challenges \cite{ekman:argument-emotions}. For
+instance, disgust evolved to deal with the challenge of avoiding noxious
+stimuli, and fear evolved to deal with the challenge of avoiding dangers.
+Because of the emphasis on discrete categories of states, this approach is also
+termed the \textit{categorical} approach \cite{panskepp:affective-neuroscience}.
+Much of the supporting evidence offered for the theory comes from experiments
+that show how certain facial expressions are universally associated with
+specific basic emotions, regardless of the observer's cultural background. This
+universality has a production side and a recognition side. On the production
+side, a particular emotional state is said to elicit a facial expression
+comprised of a fixed set of facial muscles. On the recognition side, observers
+are able to infer the emotional state of the person who expresses an emotion,
+due to the direct correspondence between emotional states and the facial
+expressions they cause.
 
 \begin{figure}[tbh]
   \center
-  \includegraphics[width=.6\textwidth]{figure/dimensional2.png}
-  \caption{Three dimensional model of pleasure, arousal and dominance as
-  tripartite view of experience \cite{mehrabian:pad}.}
-  \label{fig:pad}
+  \includegraphics[width=.9\textwidth]{figure/basic-emotions.jpg}
+  \caption{Basic emotions and corresponding expressions.}
+  \label{fig:basic-emotions}
 \end{figure}
-
-\subsection{Other Approaches}
 
 \subsubsection{Anatomic Approaches}
 
@@ -404,6 +479,51 @@ interaction tasks will generate a wide range of emotions in comparison with the
 controlled emotion-eliciting events.
 
 \section{Similarities and Differences}
+
+Different theoretical perspectives should not be viewed as competing for a
+single ground truth. They should be seen as distinct perspectives, each arising
+from a particular research area (e.g., biological vs. social psychology),
+focusing on different sets of affective phenomena, considering distinct levels
+of resolution and fundamental components (e.g., emotions vs. appraisal variables
+as the distinct primitives). These different perspectives also provide different
+degrees of support for the distinct processes of emotion, e.g., the componential
+theories provide extensive details about cognitive appraisals
+\cite{hudlicka:guidelines-emotions}.
+
+\subsection{Dimensional Vs. Discrete}
+
+Dimensional theory's main criticism of basic emotions theory is based on the
+observation that affective phenomena appear to be both qualitatively and
+quantitatively diverse. Russell in \cite{russell:core-affect} argues the labels
+such as ``fear", ``anger'', ``happiness'' do not capture this diversity. For
+instance, one might say: a) a person being chased by an assailant brandishing a
+knife, b) a person who retreats from an insect moving across the floor, and
+c) a person who is concerned they will never find a career that is
+fulfilling are all in a state of fear. On the basic emotions account, an
+emotional episode involves fixed patterns of neurophysiological and facial
+expression changes in response to an eliciting stimulus that are distinct
+between emotions, but are the same within the same emotional category
+\cite{ekman:argument-emotions}. If this were the case, one would expect that the
+three individuals described above would respond to their eliciting stimuli in
+the same way, yet the similarity of behavioral responses between these three
+cases seem unlikely. Dimensional theorists, in contrast, would argue that the
+individuals in the above three cases are applying the concept of fear to
+experience, despite the fact that each individual has a unique core affect.
+While basic emotion theorists would hold that since all three individuals are
+experiencing fear, they would perform the same behavioral responses to the
+stimuli, dimensional theorists would argue this is not the case, as each
+individual bears a core affective state that is distinguished from the other
+two. For instance, the individual's arousal in response to an armed assailant
+should be higher than the individual in response to an insect, as the former
+case poses a threat to their life. As a result, the individual in the first case
+would likely make every effort to escape from the assailant, including trying to
+negotiate and plead with the assailant, while the individual in the second case
+would be relatively less dedicated to escaping the insect. In sum, dimensional
+theory is compatible with the differences in the behavioral responses to
+eliciting stimuli, while basic emotions theory only allows for a single fixed
+behavior of responses to a given emotion.
+
+\subsection{Appraisal Vs. Dimensional}
 
 - Rewrite this part [It is worth noting that there is a relationship between the
 dimensions of core affect and appraisal dimensions – the pleasure dimension
