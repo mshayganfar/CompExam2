@@ -6,6 +6,11 @@ Carole Adam and Emiliano Lorini.
 \newblock In {\em Workshop on Agents and multi-agent Systems for AAL and
   e-HEALTH (PAAMS)}, volume 430, pages 66--78. Springer, 2014.
 
+\bibitem{arnold:emotion-personality}
+Magda~B. Arnold.
+\newblock {\em Emotion and personality}.
+\newblock Cassell & Co., 1961.
+
 \bibitem{mehrabian:pad}
 Iris Bakker, Theo van~der Voordt, Peter Vink, and Jan de~Boon.
 \newblock Pleasure, arousal, dominance: Mehrabian and russell revisited.
@@ -170,6 +175,12 @@ Gerben A.~Van Kleef.
 \newblock {\em Current Directions in Psychological Science}, 18(3):184--188,
   2009.
 
+\bibitem{lazarus:cognitive-theory-emotion}
+Richard~S. Lazarus, J.~R. Averill, and E.~M. Opton.
+\newblock Toward a cognitive theory of emotions.
+\newblock In {\em Feelings and Emotions}, pages 207--232. New York: Academic
+  Press, New York, 1970.
+
 \bibitem{lazarus:emotion-adaptation}
 Richard~Stanley Lazarus.
 \newblock {\em Emotion and Adaptation}.
@@ -201,6 +212,11 @@ Louis~Philippe Morency.
 \newblock Computational study of human communication dynamic.
 \newblock In {\em Proceedings of the 2011 Joint ACM Workshop on Human Gesture
   and Behavior Understanding}, pages 13--18. ACM, 2011.
+
+\bibitem{occ:structure}
+Andrew Ortony, Gerald~L. Clore, and Allan Collins.
+\newblock {\em The Cognitive Structure of Emotions}.
+\newblock Cambridge University Press, 1988.
 
 \bibitem{parkinson:emotions-social}
 Brian Parkinson.
@@ -244,7 +260,7 @@ James~A. Russell.
 \bibitem{russell:core-affect}
 James~A. Russell.
 \newblock Core affect and the psychological construction of emotion.
-\newblock {\em Psychological Review}, pages 145--172, 2003.
+\newblock {\em Psychological Review}, 110(1):145--172, 2003.
 
 \bibitem{sander:systems-approach-appraisal}
 David Sander, Didier Grandjean, and Klaus~R. Scherer.
