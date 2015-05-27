@@ -6,6 +6,17 @@ Carole Adam and Emiliano Lorini.
 \newblock In {\em Workshop on Agents and multi-agent Systems for AAL and
   e-HEALTH (PAAMS)}, volume 430, pages 66--78. Springer, 2014.
 
+\bibitem{anderson:newell-cognition}
+John~R. Anderson and Christian Lebiere.
+\newblock The newell test for a theory of cognition.
+\newblock {\em Behavioral and Brain Sciences}, 26(5):587--640, 2003.
+
+\bibitem{armony:computational-modeling-emotion}
+Armony, Servan-Schreiber, Cohen, and Ledoux.
+\newblock Computational modeling of emotion: Explorations through the anatomy
+  and physiology of fear conditioning.
+\newblock {\em Trends in Cognitive Sciences}, 1:28--34, 1997.
+
 \bibitem{arnold:emotion-personality}
 Magda~B. Arnold.
 \newblock {\em Emotion and personality}.
@@ -117,6 +128,13 @@ Piotr~J. Gmytrasiewicz and Christine~L. Lisetti.
 Erving Goffman.
 \newblock {\em The Presentation of Self in Everyday Life}.
 \newblock Anchor, 1959.
+
+\bibitem{gratch:emotion-intention}
+Jonathan Gratch.
+\newblock True emotion vs. social intentions in nonverbal communication:
+  Towards a synthesis for embodied conversational agents.
+\newblock In {\em ZiF Workshop}, volume 4930, pages 181--197. Springer, January
+  2008.
 
 \bibitem{gratch:domain-independent}
 Jonathan Gratch and Stacy C.Marsella.
@@ -312,10 +330,21 @@ Klaus~R. Scherer, Angela Schorr, and Tom Johnstone.
 \newblock {\em Appraisal Processes in Emotion: Theory, Methods, Research}.
 \newblock Oxford University Press, 2001.
 
+\bibitem{scheutz:affect-agent}
+Matthias Scheutz and Aaron Sloman.
+\newblock Affect and agent control: Experiments with simple affective states.
+\newblock In {\em Intelligent Agent Technology}, pages 200--209. World
+  Scientific, 2001.
+
 \bibitem{shott:emotion-social-life}
 Susan Shott.
 \newblock Emotion and social life: A symbolic interactionist analysis.
 \newblock {\em The American Journal of Sociology}, 84(6):1317--1334, 1979.
+
+\bibitem{simon:motivation-emotion-cognition}
+Herbert~A. Simon.
+\newblock Motivational and emotional controls of cognition.
+\newblock {\em Psychology Review}, 74(1):29--39, 1967.
 
 \bibitem{thoits:socialogy-emotion}
 Peggy~A. Thoits.

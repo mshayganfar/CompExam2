@@ -262,9 +262,14 @@ where these dimensions correspond to pleasure (a measure of valence), arousal
 (indicating the level of affective activation) and dominance (a measure of power
 or control). Figure \ref{fig:pad} shows these three dimensions.
 
-\subsection{Other Approaches}
+\begin{figure}[tbh]
+  \center
+  \includegraphics[width=.9\textwidth]{figure/basic-emotions.jpg}
+  \caption{Basic emotions and corresponding expressions.}
+  \label{fig:basic-emotions}
+\end{figure}
 
-\subsubsection{Discrete approaches}
+\subsection{Discrete theories}
 \label{sec:discrete-emotions}
 
 Discrete theories emphasize a small set of discrete and fundamental emotions.
@@ -290,20 +295,35 @@ side, a particular emotional state is said to elicit a facial expression
 comprised of a fixed set of facial muscles. On the recognition side, observers
 are able to infer the emotional state of the person who expresses an emotion,
 due to the direct correspondence between emotional states and the facial
-expressions they cause.
+expressions they cause. Computational models inspired by the discrete approach
+often focus on low-level perceptual-motor tasks and encode a two-process view of
+emotion that argues for a fast, automatic, undifferentiated emotional response
+and a slower, more differentiated response that relies on higher level
+reasoning processes (e.g., \cite{armony:computational-modeling-emotion}).
 
-\begin{figure}[tbh]
-  \center
-  \includegraphics[width=.9\textwidth]{figure/basic-emotions.jpg}
-  \caption{Basic emotions and corresponding expressions.}
-  \label{fig:basic-emotions}
-\end{figure}
+\subsection{Other Approaches}
 
-\subsubsection{Anatomic Approaches}
+\subsubsection{Rational Approaches}
 
-\subsubsection{rational Approaches}
+Rational approaches start from the question of what adaptive function does
+emotion serve and then attempt to incorporate these functions into a model of
+intelligence. Emotion, within this approach, is simply another set of processes
+and constraints that have adaptive value. Models of this sort are most naturally
+directed towards the goal of improving theories of machine intelligence
+\cite{anderson:newell-cognition} \cite{scheutz:affect-agent}
+\cite{simon:motivation-emotion-cognition}.
 
 \subsubsection{Communicative Approaches}
+
+Communicative theories of emotion argue that emotion processes function as a
+communicative system. They can function first, as a mechanism for informing
+other individuals of one’s mental state (thereby facilitate social
+coordination), and second, as a mechanism for requesting/demanding changes in
+the behavior of others. Communicative theories emphasize the
+social-communicative function of expressions \cite{gratch:emotion-intention}.
+Computational models inspired by communicative theories focus on machinery that
+decides when an emotional expression can have a desirable effect on a human
+counterpart.
 
 \section{Relation to Psychology and Sociology}
 
