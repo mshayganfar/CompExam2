@@ -6,6 +6,13 @@ Carole Adam and Emiliano Lorini.
 \newblock In {\em Workshop on Agents and multi-agent Systems for AAL and
   e-HEALTH (PAAMS)}, volume 430, pages 66--78. Springer, 2014.
 
+\bibitem{ahmadpour:occ-dimensional-comparison}
+Naseem Ahmadpour.
+\newblock Occ model: application and comparison to the dimensional model of
+  emotion.
+\newblock In {\em In Proceedings of International Conference on KANSEI
+  Engineering and Emotion Reseach}, pages 607--617, 2014.
+
 \bibitem{anderson:newell-cognition}
 John~R. Anderson and Christian Lebiere.
 \newblock The newell test for a theory of cognition.
@@ -243,6 +250,13 @@ Claudia Marinetti, Penny Moore, Pablo Lucas, and Brian Parkinson.
 \newblock In {\em Emotion-Oriented Systems, Cognitive Technologies}, pages
   31--46. Springer Berlin Heidelberg, 2011.
 
+\bibitem{marsella:computational-models}
+Stacy Marsella, Jonathan Grath, and Paolo Petta.
+\newblock Computational models of emotion.
+\newblock In Etienne~Roesch Klaus R.~Scherer, Tanja~Banziger, editor, {\em A
+  Blueprint for Affective Computing: A Sourcebook and Manual}, pages 21--41.
+  Oxford University Press, 2010.
+
 \bibitem{marsella:ema-process-model}
 Stacy~C. Marsella and Jonathan Gratch.
 \newblock {EMA}: A process model of appraisal dynamics.
@@ -342,6 +356,11 @@ Klaus~R. Scherer.
 \newblock On the sequential nature of appraisal processes: Indirect evidence
   from a recognition task.
 \newblock {\em Cognition \& Emotion}, 13(6):763--793, 1999.
+
+\bibitem{scherer:what-emotions}
+Klaus~R. Scherer.
+\newblock What are emotions? and how can they be measured?
+\newblock {\em Social Science Information}, 44:695--729, 2005.
 
 \bibitem{scherer:dynamic-architecture-emotion}
 Klaus~R. Scherer.
