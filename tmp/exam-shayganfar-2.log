@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  28 MAY 2015 12:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  28 MAY 2015 14:05
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -315,16 +315,16 @@ Missing character: There is no ô in font cmr10!
 File: figure/dimensional-discrete.png Graphic file (type png)
 
 <use figure/dimensional-discrete.png>
-Package pdftex.def Info: figure/dimensional-discrete.png used on input line 674
+Package pdftex.def Info: figure/dimensional-discrete.png used on input line 675
 .
 (pdftex.def)             Requested size: 323.9978pt x 228.32944pt.
+ [18 <./figure/dimensional-discrete.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [18 <./figure/dimensional-discrete.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -343,48 +343,48 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
  [19]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
 <figure/occ-circumplex-mapping.png, id=78, 1179.40625pt x 897.3525pt>
 File: figure/occ-circumplex-mapping.png Graphic file (type png)
 
 <use figure/occ-circumplex-mapping.png>
 Package pdftex.def Info: figure/occ-circumplex-mapping.png used on input line 7
-60.
+73.
 (pdftex.def)             Requested size: 323.9978pt x 246.51938pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [20]
+ [20] [21 <./figure/occ-circumplex-mapping.png (PNG copy)>]
 
-LaTeX Warning: Reference `section-emotion-social' on page 21 undefined on input
- line 809.
-
-
-LaTeX Warning: Reference `section-emotion-social-functions' on page 21 undefine
-d on input line 809.
-
-[21 <./figure/occ-circumplex-mapping.png (PNG copy)>]
-
-LaTeX Warning: Reference `chapter-theory' on page 22 undefined on input line 83
-1.
+LaTeX Warning: Reference `section-emotion-social' on page 22 undefined on input
+ line 822.
 
 
-LaTeX Warning: Reference `example-scenario' on page 22 undefined on input line 
-849.
+LaTeX Warning: Reference `section-emotion-social-functions' on page 22 undefine
+d on input line 822.
+
+
+LaTeX Warning: Reference `chapter-theory' on page 22 undefined on input line 84
+4.
 
 [22]
 
 LaTeX Warning: Reference `example-scenario' on page 23 undefined on input line 
-861.
+862.
 
 
-Overfull \hbox (3.83798pt too wide) in paragraph at lines 866--873
+LaTeX Warning: Reference `example-scenario' on page 23 undefined on input line 
+874.
+
+
+Overfull \hbox (3.83798pt too wide) in paragraph at lines 879--886
 \OT1/cmr/m/n/10.95 and \OT1/cmr/m/it/10.95 in-cor-po-rated \OT1/cmr/m/n/10.95 i
 nto ex-ist-ing knowl-edge for sub-se-quent de-ci-sions which
  []
@@ -406,10 +406,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2530 strings out of 495028
- 35228 string characters out of 6181497
- 91866 words of memory out of 5000000
- 5709 multiletter control sequences out of 15000+600000
+ 2531 strings out of 495028
+ 35251 string characters out of 6181497
+ 90870 words of memory out of 5000000
+ 5710 multiletter control sequences out of 15000+600000
  6968 words of font info for 25 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,5n,26p,249b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -420,7 +420,7 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on exam-shayganfar-2.pdf (30 pages, 1368539 bytes).
+Output written on exam-shayganfar-2.pdf (30 pages, 1369487 bytes).
 PDF statistics:
  137 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
