@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  28 MAY 2015 17:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  28 MAY 2015 19:46
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -214,7 +214,7 @@ e
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (0.74211pt too wide) in paragraph at lines 63--74
+Overfull \hbox (0.74211pt too wide) in paragraph at lines 95--106
 []\OT1/cmr/m/n/10.95 Appraisal the-o-ries of emo-tion were first for-mu-lated b
 y Arnold [[]] and Lazarus
  []
@@ -222,36 +222,38 @@ y Arnold [[]] and Lazarus
 <figure/cpm.png, id=10, 988.69376pt x 749.80125pt>
 File: figure/cpm.png Graphic file (type png)
  <use figure/cpm.png>
-Package pdftex.def Info: figure/cpm.png used on input line 77.
+Package pdftex.def Info: figure/cpm.png used on input line 109.
 (pdftex.def)             Requested size: 288.0011pt x 218.40927pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-[2 <./figure/cpm.png (PNG copy)>]
+[2] [3 <./figure/cpm.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [3]
+
 <figure/comprehensive-CPM.png, id=19, 1105.12875pt x 780.9175pt>
 File: figure/comprehensive-CPM.png Graphic file (type png)
 
 <use figure/comprehensive-CPM.png>
-Package pdftex.def Info: figure/comprehensive-CPM.png used on input line 149.
+Package pdftex.def Info: figure/comprehensive-CPM.png used on input line 181.
 (pdftex.def)             Requested size: 360.0pt x 254.37904pt.
- [4 <./figure/comprehensive-CPM.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 177--182
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 184.
+[5 <./figure/comprehensive-CPM.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 216.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 184.
- [5]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 216.
+ [6]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
@@ -259,38 +261,39 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-<figure/occ.png, id=27, 1339.0025pt x 609.27625pt>
+<figure/occ.png, id=30, 1339.0025pt x 609.27625pt>
 File: figure/occ.png Graphic file (type png)
  <use figure/occ.png>
-Package pdftex.def Info: figure/occ.png used on input line 256.
+Package pdftex.def Info: figure/occ.png used on input line 288.
 (pdftex.def)             Requested size: 360.0pt x 163.80952pt.
 
-[6]
+[7 <./figure/occ.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- <figure/occ-structure.jpg, id=31, 648.4225pt x 640.3925pt>
+
+<figure/occ-structure.jpg, id=35, 648.4225pt x 640.3925pt>
 File: figure/occ-structure.jpg Graphic file (type jpg)
 
 <use figure/occ-structure.jpg>
-Package pdftex.def Info: figure/occ-structure.jpg used on input line 295.
+Package pdftex.def Info: figure/occ-structure.jpg used on input line 327.
 (pdftex.def)             Requested size: 323.9978pt x 319.99025pt.
- [7 <./figure/occ.png (PNG copy)>] [8 <./figure/occ-structure.jpg>] <figure/cor
-e-affect.png, id=39, 805.0075pt x 638.385pt>
+ [8]
+<figure/core-affect.png, id=39, 805.0075pt x 638.385pt>
 File: figure/core-affect.png Graphic file (type png)
 
 <use figure/core-affect.png>
-Package pdftex.def Info: figure/core-affect.png used on input line 331.
+Package pdftex.def Info: figure/core-affect.png used on input line 363.
 (pdftex.def)             Requested size: 251.9989pt x 199.83574pt.
-
-<figure/dimensional2.png, id=40, 762.85pt x 632.3625pt>
+ [9 <./figure/occ-structure.jpg>]
+<figure/dimensional2.png, id=43, 762.85pt x 632.3625pt>
 File: figure/dimensional2.png Graphic file (type png)
 
 <use figure/dimensional2.png>
-Package pdftex.def Info: figure/dimensional2.png used on input line 349.
+Package pdftex.def Info: figure/dimensional2.png used on input line 381.
 (pdftex.def)             Requested size: 216.0022pt x 179.048pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -298,35 +301,35 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
- [9 <./figure/core-affect.png (PNG copy)>]
-<figure/basic-emotions.jpg, id=44, 737.154pt x 657.657pt>
+ [10 <./figure/core-affect.png (PNG copy)>]
+<figure/basic-emotions.jpg, id=47, 737.154pt x 657.657pt>
 File: figure/basic-emotions.jpg Graphic file (type jpg)
 
 <use figure/basic-emotions.jpg>
-Package pdftex.def Info: figure/basic-emotions.jpg used on input line 380.
+Package pdftex.def Info: figure/basic-emotions.jpg used on input line 412.
 (pdftex.def)             Requested size: 323.9978pt x 289.05888pt.
- [10 <./figure/dimensional2.png (PNG copy)>]
-[11 <./figure/basic-emotions.jpg>]
+ [11 <./figure/dimensional2.png (PNG copy)>]
+[12 <./figure/basic-emotions.jpg>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [12] [13] [14] [15] [16] [17]
-<figure/dimensional-discrete.png, id=70, 931.48pt x 656.4525pt>
+ [13]
+<figure/dimensional-discrete.png, id=58, 931.48pt x 656.4525pt>
 File: figure/dimensional-discrete.png Graphic file (type png)
 
 <use figure/dimensional-discrete.png>
-Package pdftex.def Info: figure/dimensional-discrete.png used on input line 676
+Package pdftex.def Info: figure/dimensional-discrete.png used on input line 539
 .
 (pdftex.def)             Requested size: 323.9978pt x 228.32944pt.
- [18 <./figure/dimensional-discrete.png (PNG copy)>]
+ [14] [15 <./figure/dimensional-discrete.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-LaTeX Font Info:    Try loading font information for U+msa on input line 730.
+LaTeX Font Info:    Try loading font information for U+msa on input line 593.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 730.
+LaTeX Font Info:    Try loading font information for U+msb on input line 593.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -337,43 +340,43 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
- [19]
-<figure/occ-circumplex-mapping.png, id=78, 1179.40625pt x 897.3525pt>
+ [16]
+<figure/occ-circumplex-mapping.png, id=68, 1179.40625pt x 897.3525pt>
 File: figure/occ-circumplex-mapping.png Graphic file (type png)
 
 <use figure/occ-circumplex-mapping.png>
-Package pdftex.def Info: figure/occ-circumplex-mapping.png used on input line 7
-90.
+Package pdftex.def Info: figure/occ-circumplex-mapping.png used on input line 6
+39.
 (pdftex.def)             Requested size: 323.9978pt x 246.51938pt.
- [20] [21 <./figure/occ-circumplex-mapping.png (PNG copy)>]
+ [17] [18 <./figure/occ-circumplex-mapping.png (PNG copy)>]
 
-LaTeX Warning: Reference `section-emotion-social' on page 22 undefined on input
- line 834.
-
-
-LaTeX Warning: Reference `section-emotion-social-functions' on page 22 undefine
-d on input line 834.
+LaTeX Warning: Reference `section-emotion-social' on page 19 undefined on input
+ line 698.
 
 
-LaTeX Warning: Reference `chapter-theory' on page 22 undefined on input line 85
-6.
-
-[22]
-
-LaTeX Warning: Reference `example-scenario' on page 23 undefined on input line 
-874.
+LaTeX Warning: Reference `section-emotion-social-functions' on page 19 undefine
+d on input line 698.
 
 
-LaTeX Warning: Reference `example-scenario' on page 23 undefined on input line 
-886.
+LaTeX Warning: Reference `chapter-theory' on page 19 undefined on input line 72
+0.
+
+[19]
+
+LaTeX Warning: Reference `example-scenario' on page 20 undefined on input line 
+738.
 
 
-Overfull \hbox (3.83798pt too wide) in paragraph at lines 891--898
+LaTeX Warning: Reference `example-scenario' on page 20 undefined on input line 
+750.
+
+
+Overfull \hbox (3.83798pt too wide) in paragraph at lines 755--762
 \OT1/cmr/m/n/10.95 and \OT1/cmr/m/it/10.95 in-cor-po-rated \OT1/cmr/m/n/10.95 i
 nto ex-ist-ing knowl-edge for sub-se-quent de-ci-sions which
  []
 
-[23] (./exam-shayganfar-2.bbl
+[20] (./exam-shayganfar-2.bbl
 ! Misplaced alignment tab character &.
 l.30 \newblock Cassell &
                          Co., 1960.
@@ -384,16 +387,16 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[24] [25] [26] [27] [28] [29]) [30] (./exam-shayganfar-2.aux)
+[21] [22] [23] [24] [25]) [26] (./exam-shayganfar-2.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 2575 strings out of 495028
- 35971 string characters out of 6181497
- 90892 words of memory out of 5000000
- 5736 multiletter control sequences out of 15000+600000
+ 2562 strings out of 495028
+ 35571 string characters out of 6181497
+ 90860 words of memory out of 5000000
+ 5723 multiletter control sequences out of 15000+600000
  11059 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,5n,26p,249b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -404,10 +407,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on exam-shayganfar-2.pdf (30 pages, 1371065 bytes).
+Output written on exam-shayganfar-2.pdf (26 pages, 1358921 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
