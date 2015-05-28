@@ -20,7 +20,7 @@ Armony, Servan-Schreiber, Cohen, and Ledoux.
 \bibitem{arnold:emotion-personality}
 Magda~B. Arnold.
 \newblock {\em Emotion and personality}.
-\newblock Cassell & Co., 1961.
+\newblock Cassell & Co., 1960.
 
 \bibitem{mehrabian:pad}
 Iris Bakker, Theo van~der Voordt, Peter Vink, and Jan de~Boon.
@@ -181,6 +181,11 @@ Eva Hudlicka.
 \newblock {\em International Journal of Synthetic Emotions}, 2(1):85--102,
   2011.
 
+\bibitem{izard:human-emotions}
+Carol~Ellis Izard.
+\newblock {\em Human Emotions}.
+\newblock NY: PLenum, 1977.
+
 \bibitem{keating:search-social-intelligence}
 Daniel~P. Keating.
 \newblock A search for social intelligence.
@@ -292,6 +297,13 @@ JONATHAN POSNER, JAMES~A. RUSSELL, and BRADLEY~S. PETERSON.
   neuroscience, cognitive development, and psychopathology.
 \newblock {\em Development and Psychopathology}, null(3):715--734, 2005.
 
+\bibitem{roseman:appraisal-theory}
+Ira~J. Roseman and Craig~A. Smith.
+\newblock Appraisal theory:overview, assumptions, varieties, controversies.
+\newblock In Klaus~R. Scherer, Angela Schorr, and Tom Johnstone, editors, {\em
+  Appraisal process in emotion}, pages 3--34. NY: Oxford University Press,
+  2001.
+
 \bibitem{russell:circumplex-affect}
 James~A. Russell.
 \newblock A circumplex model of affect.
@@ -325,6 +337,19 @@ Klaus~R. Scherer.
   from a recognition task.
 \newblock {\em Cognition \& Emotion}, 13(6):763--793, 1999.
 
+\bibitem{scherer:dynamic-architecture-emotion}
+Klaus~R. Scherer.
+\newblock The dynamic architecture of emotion: Evidence for the component
+  process model.
+\newblock {\em Cognition and Emotion}, 23(7):1307--1351, 2009.
+
+\bibitem{scherer:emotions-emergent}
+Klaus~R. Scherer.
+\newblock Emotions are emergent processes: they require a dynamic computational
+  architecture.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 364(1535):3459--3474, 2009.
+
 \bibitem{scherer:appraisal-processes}
 Klaus~R. Scherer, Angela Schorr, and Tom Johnstone.
 \newblock {\em Appraisal Processes in Emotion: Theory, Methods, Research}.
@@ -356,6 +381,11 @@ Larissa~Z. Tiedens and Colin~Wayne Leach.
 \newblock {\em The Social Life of Emotions (Studies in Emotion and Social
   Interaction)}.
 \newblock Cambridge University Press, 2004.
+
+\bibitem{tomkins:affect}
+Silvan~S. Tomkins.
+\newblock {\em Affect, Imagery, Consciousness}.
+\newblock NY: Springer, 1962.
 
 \bibitem{watson:consensual-structure-mood}
 David Watson and Auke Tellegen.

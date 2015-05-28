@@ -5,6 +5,7 @@
 %\usepackage{algorithm}
 \usepackage{amssymb}
 \usepackage{amsmath}
+\usepackage{enumerate}
 \usepackage[mathscr]{euscript}
 
 \begin{document}
@@ -59,11 +60,25 @@ representationial distinction.
 \subsection{Appraisal Theory}
 \label{sec:appraisal-theory}
 
-The emotional experience is the experience of a particular situation
+Appraisal theories of emotion were first formulated by Arnold
+\cite{arnold:emotion-personality} and Lazarus \cite{lazarus:emotion-adaptation}
+and then were actively developed in the early 80s by Ellsworth and Scherer and
+their students \cite{roseman:appraisal-theory}
+\cite{sander:systems-approach-appraisal} \cite{scherer:nature-function-emotion}
+\cite{scherer:appraisal-processes} \cite{scherer:emotions-emergent}. The
+emotional experience is the experience of a particular situation
 \cite{frijda:emotions}. Appraisal theory describes the cognitive process by
 which an individual evaluates the situation in the environment with respect to
 the individual's well-being and triggers emotions to control internal changes
 and external actions.
+
+\begin{figure}[tbh]
+  \center
+  \includegraphics[width=0.8\textwidth]{figure/cpm.png}
+  \caption{Schematic View of the Componential Theory of Emotion
+  \cite{hudlicka:guidelines-emotions}.}
+  \label{fig:cpm}
+\end{figure}
 
 \subsubsection{Componential approach}
 \label{sec:componential-theories}
@@ -88,13 +103,42 @@ variables. Figure \ref{fig:cpm} shows the relationship of the individual
 appraisal dimensions to the broader categories of evaluations taking place
 during appraisal (Relevance, Implications, etc.).
 
-\begin{figure}[tbh]
-  \center
-  \includegraphics[width=0.8\textwidth]{figure/cpm.png}
-  \caption{Schematic View of the Componential Theory of Emotion
-  \cite{hudlicka:guidelines-emotions}.}
-  \label{fig:cpm}
-\end{figure}
+\subsubsection{Component Process Model}
+\label{sec:cpm}
+
+The Component Process Model (CPM) is Scherer's influential and major theory of
+emotions
+\cite{scherer:sequential-appraisal-process,scherer:appraisal-processes}. This
+theory focuses on the dynamic unfolding of emotions. The CPM suggests that an
+event and its consequences are appraised with a set of criteria on multiple
+levels of processing (the appraisal component). The result of the appraisal will
+generally have a motivational effect, often changing or modifying the
+motivational state before the occurrence of the event. Based on the appraisal
+results and the motivational changes, some effects will occur in the autonomic
+and somatic nervous system. The CPM considers emotions as the synchronisation of
+many different cognitive and physiological components. Emotions are identified
+with the overall process whereby low level cognitive appraisals, in particular
+the processing of relevance, trigger bodily reactions, behaviours and subjective
+feelings. The model suggests that there are four major appraisal objectives to
+adaptively react to a salient event \cite{scherer:dynamic-architecture-emotion}: 
+
+\begin{enumerate}[a)]
+  \item \textbf{Relevance:} How relevant is this event for the agent? Does it
+  directly affect the agent or its social reference group?
+  \item \textbf{Implications:} What are the implications or consequences of this
+  event and how do they affect agent's well-being and its immediate or long-term
+  goals?
+  \item \textbf{Coping Potential:} How well can the agent cope with or adjust to
+  these consequences?
+  \item \textbf{Normative Significance:} What is the significance of this event
+  for the agent's self-concept and for social norms and values?
+\end{enumerate}
+
+To attain these objectives, the agent evaluates the event and its consequences
+on a number of criteria or \textit{Stimulus Evaluation Checks} (SECs), with the
+results reflecting the agent’s subjective assessment of consequences and
+implications on a background of personal needs, goals, and values
+\cite{scherer:appraisal-processes}.
 
 \subsubsection{Appraisal Process}
 \label{sec:appraisal-process}
@@ -132,7 +176,7 @@ include \cite{marsella:ema-process-model}:\\
   \item \textbf{Perspective:} The point of vierw in which an event will be
   judged, e.g. self or other.
   
-  \item \textbf{Desirability:} A desrable event advances a state of the utility
+  \item \textbf{Desirability:} A desirable event advances a state of the utility
   for an agent whose perspective is being taken, or inhibits that.
   
   \item \textbf{Likelihood:} A measure of likelihood of the outcome.
@@ -258,7 +302,7 @@ encountering events, agents or objects. These variables are as follows:
 	\item Arousal (representing how arousing an event, agent or object is).
 \end{enumerate}
 
-\subsection{Dimensional Theories}
+\subsection{Constructivist (dimensional) emotion Theories}
 
 The components and dimensions of emotions were the subject of much speculation
 since the 19th century. Dimensional models of emotion attempt to conceptualize
@@ -325,10 +369,14 @@ or control). Figure \ref{fig:pad} shows these three dimensions.
   \label{fig:basic-emotions}
 \end{figure}
 
-\subsection{Discrete theories}
+\subsection{Basic (discrete) emotion theories}
 \label{sec:discrete-emotions}
 
-Discrete theories emphasize a small set of discrete and fundamental emotions.
+Basic emotion theories are inspired by Tomkins' \cite{tomkins:affect}
+rediscovery of Darwin's work
+\cite{darwin:emotion-expression,hess:darwin-emotion} which later were developed
+by Ekamn \cite{ekman:argument-emotions} and Izard \cite{izard:human-emotions}.
+These theories emphasize a small set of discrete and fundamental emotions.
 The underlying assumption of this approach is that these emotions are mediated
 by associated neural circuitry, with hardwired component
 \cite{ekman:argument-emotions}. Different emotions are then characterized by
@@ -351,11 +399,12 @@ side, a particular emotional state is said to elicit a facial expression
 comprised of a fixed set of facial muscles. On the recognition side, observers
 are able to infer the emotional state of the person who expresses an emotion,
 due to the direct correspondence between emotional states and the facial
-expressions they cause. Computational models inspired by the discrete approach
-often focus on low-level perceptual-motor tasks and encode a two-process view of
-emotion that argues for a fast, automatic, undifferentiated emotional response
-and a slower, more differentiated response that relies on higher level
-reasoning processes (e.g., \cite{armony:computational-modeling-emotion}).
+expressions they cause. Computational models inspired by the basic emotions or
+discrete approach often focus on low-level perceptual-motor tasks and encode a
+two-process view of emotion that argues for a fast, automatic, undifferentiated
+emotional response and a slower, more differentiated response that relies on
+higher level reasoning processes (e.g.,
+\cite{armony:computational-modeling-emotion}).
 
 \subsection{Other Approaches}
 
@@ -567,6 +616,11 @@ theories provide extensive details about cognitive appraisals
 \cite{hudlicka:guidelines-emotions}.
 
 \subsection{Dimensional Vs. Discrete}
+
+The fundamental assumption of the basic emotion theories is that a specific type
+of event triggers a specific affect programme corresponding to one of the basic
+emotions and producing characteristic expression patterns and physiological
+response configurations \cite{scherer:emotions-emergent}.
 
 Dimensional theory's main criticism of basic emotions theory is based on the
 observation that affective phenomena appear to be both qualitatively and
