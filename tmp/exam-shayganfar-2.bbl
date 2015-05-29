@@ -39,6 +39,18 @@ Lisa~Feldman Barrett.
 \newblock Are emotions natural kinds?
 \newblock {\em Perspectives on Psychological Science}, 1(1):28--58, 2006.
 
+\bibitem{becker:wasabi}
+Christian Becker-asano.
+\newblock {\em TWASABI: Affect Simulation for Agents with Believable
+  Interactivity}.
+\newblock PhD thesis, University of Bielefeld, 2008.
+
+\bibitem{becker:affect-primary-secondary}
+Christian Becker-Asano and Ipke Wachsmuth.
+\newblock Affect simulation with primary and secondary emotions.
+\newblock In {\em 8th International Conference on Intelligent Virtual Agents},
+  2008.
+
 \bibitem{carver:affect-behavior}
 Charles~S. Carver.
 \newblock Affect and the functional bases of behavior: On the dimensional
@@ -372,6 +384,11 @@ Alexander Staller and Paolo Petta.
   first evaluation.
 \newblock {\em Journal of Artificial Societies and Social Simulation},
   4:615--625, 2001.
+
+\bibitem{thagard:emotional-coherence}
+Paul Thagard.
+\newblock Why wasn't o. j. convicted: emotional coherence in legal inference.
+\newblock {\em Cognition and Emotion}, 17(3):361--383, 2003.
 
 \bibitem{tomkins:affect}
 Silvan~S. Tomkins.

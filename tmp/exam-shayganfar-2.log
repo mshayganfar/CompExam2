@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  29 MAY 2015 12:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  29 MAY 2015 12:43
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -366,7 +366,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Overfull \hbox (4.47319pt too wide) in paragraph at lines 734--752
+Overfull \hbox (4.47319pt too wide) in paragraph at lines 734--747
 \OT1/cmr/m/n/10.95 plored in di-men-sional ap-proaches. Typ-i-cally the con-nec
 -tion be-tween emotion-
  []
@@ -389,10 +389,10 @@ Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¡ in font cmr10!
  [25]) [26] (./exam-shayganfar-2.aux) ) 
 Here is how much of TeX's memory you used:
- 2563 strings out of 495028
- 35533 string characters out of 6181497
- 90880 words of memory out of 5000000
- 5724 multiletter control sequences out of 15000+600000
+ 2566 strings out of 495028
+ 35610 string characters out of 6181497
+ 90892 words of memory out of 5000000
+ 5727 multiletter control sequences out of 15000+600000
  11059 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,5n,26p,249b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -403,7 +403,7 @@ sfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on exam-shayganfar-2.pdf (26 pages, 1358780 bytes).
+Output written on exam-shayganfar-2.pdf (26 pages, 1358978 bytes).
 PDF statistics:
  125 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
