@@ -50,6 +50,12 @@ Gerald~L. Clore and Jeffrey~R. Huntsinger.
 \newblock How emotions inform judgment and regulate thought.
 \newblock {\em Trends in Cognitive Sciences}, 11(9):393--399, 2007.
 
+\bibitem{conati:evaluating-student-affect}
+Cristina Conati and Heather Maclare.
+\newblock Evaluating a probabilistic model of student affect.
+\newblock In {\em 7th International Conference on Intelligent Tutoring
+  Systems}, 2004.
+
 \bibitem{darwin:emotion-expression}
 Charles Darwin.
 \newblock {\em The expression of the emotions in man and animals}.
@@ -78,6 +84,11 @@ Paul Ekman and Wallace~V. Friesen.
 \newblock {\em Environmental psychology and nonverbal behavior}, 1(1):56--75,
   1976.
 
+\bibitem{elnasr:flame}
+Magy~Seif El-Nasr, John Yen, and Thomas~R. Ioerger.
+\newblock Flame: Fuzzy logic adaptive model of emotions.
+\newblock {\em Autonomous Agents and Multi-Agent Systems}, 3(3):219--257, 2000.
+
 \bibitem{elliott:affective-reasoner}
 Clark~Davidson Elliott.
 \newblock {\em The Affective Reasoner: A Process Model of Emotions in a
@@ -95,6 +106,12 @@ Nico~H. Frijda.
 \newblock {\em The Emotions}.
 \newblock Cambridge University Press, 1986.
 
+\bibitem{gebhard:alma}
+Patrick Gebhard.
+\newblock A layered model of affect.
+\newblock In {\em 5th International Joint Conference on Autonomous Agents and
+  Multiagent Systems}, pages 29--36, 2005.
+
 \bibitem{gratch:emotion-intention}
 Jonathan Gratch.
 \newblock True emotion vs. social intentions in nonverbal communication:
@@ -106,6 +123,12 @@ Jonathan Gratch.
 Jonathan Gratch and Stacy C.Marsella.
 \newblock A domain-independent framework for modeling emotion.
 \newblock {\em Cognitive Systems Research}, 5(4):269--306, 2004.
+
+\bibitem{gratch:assessing-appraisal}
+Jonathan Gratch, Stacy Marsella, Ning Wang, and Brooke Stankovic.
+\newblock Assessing the validity of appraisal-based models of emotion.
+\newblock In {\em International Conference on Affective Computing and
+  Intelligent Interaction}. IEEE, 2009.
 
 \bibitem{GrossbergGutowski:affect-cognition}
 S.~Grossberg and W.~E. Gutowski.
@@ -164,11 +187,29 @@ Howard Leventhal and Klaus Scherer.
 \newblock The relationship of emotion to cognition.
 \newblock {\em Cognition and Emotion}, 1:3--28, 1987.
 
+\bibitem{mao:social-causality}
+Wenji Mao and Jonathan Gratch.
+\newblock Evaluating a computational model of social causality and
+  responsibility.
+\newblock In {\em Fourth International Joint Conference on Autonomous Agents
+  and Multiagent Systems}, 2006.
+
 \bibitem{parkinson:emotion-social-interaction}
 Claudia Marinetti, Penny Moore, Pablo Lucas, and Brian Parkinson.
 \newblock Emotions in social interactions: Unfolding emotional experience.
 \newblock In {\em Emotion-Oriented Systems, Cognitive Technologies}, pages
   31--46. Springer Berlin Heidelberg, 2011.
+
+\bibitem{marinier:behavior-emotion}
+Robert~P. MarinierIII, John~E. Laird, and Richard~L. Lewis.
+\newblock A computational unification of cognitive behavior and emotion.
+\newblock {\em Cognitive System Research}, 10(1):48--69, March 2009.
+
+\bibitem{marsella:assessing-coping}
+Stacy Marsella, Jonathan Gratch, Ning Wang, and Brooke Stankovic.
+\newblock Assessing the validity of a computational model of emotional coping.
+\newblock In {\em International Conference on Affective Computing and
+  Intelligent Interaction}. IEEE, 2009.
 
 \bibitem{marsella:computational-models}
 Stacy Marsella, Jonathan Grath, and Paolo Petta.
@@ -192,6 +233,12 @@ Andrew Ortony, Gerald~L. Clore, and Allan Collins.
 \newblock {\em The Cognitive Structure of Emotions}.
 \newblock Cambridge University Press, 1988.
 
+\bibitem{paiva:learning-feeling}
+Ana Paiva, Joao Diasa, Daniel Sobrala, Ruth Aylettb, Sarah Woodsc, Lynne Halld,
+  and Carsten Zoll.
+\newblock Learning by fealing: Evoking empathy with synthetic characters.
+\newblock {\em Applied Artificial Intelligence}, 19:235--266, 2005.
+
 \bibitem{panskepp:affective-neuroscience}
 Jaak Panskepp.
 \newblock {\em Affective Neuroscience: The Foundations of Human and Animal
@@ -213,6 +260,24 @@ JONATHAN POSNER, JAMES~A. RUSSELL, and BRADLEY~S. PETERSON.
 \newblock The circumplex model of affect: An integrative approach to affective
   neuroscience, cognitive development, and psychopathology.
 \newblock {\em Development and Psychopathology}, null(3):715--734, 2005.
+
+\bibitem{rank:appraisal-story-world}
+Stefan Rank and Paolo Petta.
+\newblock Appraisal for a character-based story-world.
+\newblock In {\em 5th International Working Conference on Intelligent Virtual
+  Agents}, Kos, Greece, 2005. Springer.
+
+\bibitem{neal:believable-agents}
+W.~Scott~Neal Reilly.
+\newblock {\em Believable Social and Emotional Agents}.
+\newblock PhD thesis, Carnegie Mellon University, 1996.
+
+\bibitem{neal:modeling-antecedents}
+W.~Scott~Neal Reilly.
+\newblock Modeling what happens between emotional antecedents and emotional
+  consequents.
+\newblock In {\em Eighteenth European Meeting on Cybernetics and Systems
+  Research}, 2006.
 
 \bibitem{roseman:appraisal-theory}
 Ira~J. Roseman and Craig~A. Smith.
@@ -284,6 +349,11 @@ Matthias Scheutz and Aaron Sloman.
 \newblock In {\em Intelligent Agent Technology}, pages 200--209. World
   Scientific, 2001.
 
+\bibitem{si:modeling-appraisal-tom-journal}
+Mei Si, Stacy~C. Marsella, and David~V. Pynadath.
+\newblock Modeling appraisal in theory of mind reasoning.
+\newblock {\em Autonomous Agents and Multi-Agent Systems}, 20(1):14--31, 2010.
+
 \bibitem{simon:motivation-emotion-cognition}
 Herbert~A. Simon.
 \newblock Motivational and emotional controls of cognition.
@@ -296,10 +366,24 @@ Craig~A. Smith and Heather~S. Scott.
   The psychology of facial expression. Studies in emotion and social
   interaction}, pages 229--254. NY: Cambridge University Press, 1997.
 
+\bibitem{staller:emotion-social-norm}
+Alexander Staller and Paolo Petta.
+\newblock Introducing emotions into the computational study of social norms: A
+  first evaluation.
+\newblock {\em Journal of Artificial Societies and Social Simulation},
+  4:615--625, 2001.
+
 \bibitem{tomkins:affect}
 Silvan~S. Tomkins.
 \newblock {\em Affect, Imagery, Consciousness}.
 \newblock NY: Springer, 1962.
+
+\bibitem{traum:negotiation-teams-training}
+David Traum, Jeff Rickel, onathan Gratch, and Stacy Marsella.
+\newblock Negotiation over tasks in hybrid human-agent teams for
+  simulation-based training.
+\newblock In {\em International Conference on Autonomous Agents and Multiagent
+  Systems}, 2003.
 
 \bibitem{watson:consensual-structure-mood}
 David Watson and Auke Tellegen.
