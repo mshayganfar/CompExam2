@@ -39,26 +39,11 @@ Lisa~Feldman Barrett.
 \newblock Are emotions natural kinds?
 \newblock {\em Perspectives on Psychological Science}, 1(1):28--58, 2006.
 
-\bibitem{beheshtifar:social-intelligence-leadership}
-Malikeh Beheshtifar and Fateme Roasaei.
-\newblock Emotional intelligence: a review and appraisal.
-\newblock {\em The Journal of Public Management}, 28(2):197--203, 2012.
-
-\bibitem{bradberry:ability-skill-intelligence}
-Travis~R. Bradberry and Lac~D. Su.
-\newblock Ability-versus skill-based assessment of emotional intelligence.
-\newblock {\em Psicothema}, 18(Suppl):59--66, 2006.
-
 \bibitem{carver:affect-behavior}
 Charles~S. Carver.
 \newblock Affect and the functional bases of behavior: On the dimensional
   structure of affective experience.
 \newblock {\em Personality and Social Psychology Review}, 5(4):345--356, 2001.
-
-\bibitem{pomerol:ai-decision-making}
-Jean charles Pomerol.
-\newblock Artificial intelligence and human decision making.
-\newblock {\em European Journal of Operational Research}, 99:3--25, 1997.
 
 \bibitem{clore:judgement-regulation}
 Gerald~L. Clore and Jeffrey~R. Huntsinger.
@@ -69,12 +54,6 @@ Gerald~L. Clore and Jeffrey~R. Huntsinger.
 Charles Darwin.
 \newblock {\em The expression of the emotions in man and animals}.
 \newblock New York; D. Appleton and Co., 1916.
-
-\bibitem{dautenhahn:social-autonomous-robots}
-Kerstin Dautenhahn.
-\newblock Getting to know each other - artificial social intelligence for
-  autonomous robots.
-\newblock {\em Robotics and Autonomous Systems}, 16:333--356, 1995.
 
 \bibitem{gratch:reverse-appraisal}
 Celso~M. de~Melo, Jonathan Gratch, Peter Carnevale, and Stephen~J. Read.
@@ -99,6 +78,13 @@ Paul Ekman and Wallace~V. Friesen.
 \newblock {\em Environmental psychology and nonverbal behavior}, 1(1):56--75,
   1976.
 
+\bibitem{elliott:affective-reasoner}
+Clark~Davidson Elliott.
+\newblock {\em The Affective Reasoner: A Process Model of Emotions in a
+  Multi-agent System}.
+\newblock PhD thesis, Northwestern University Institute for the Learning
+  Sciences, 1992.
+
 \bibitem{folkman:coping-pitfalls-promise}
 Susan Folkman and Judith~T. Moskowitz.
 \newblock Coping: Pitfalls and promise.
@@ -108,13 +94,6 @@ Susan Folkman and Judith~T. Moskowitz.
 Nico~H. Frijda.
 \newblock {\em The Emotions}.
 \newblock Cambridge University Press, 1986.
-
-\bibitem{gmytrasiewicz:emotion-agent-decision}
-Piotr~J. Gmytrasiewicz and Christine~L. Lisetti.
-\newblock Emotions and personality in agent design and modeling.
-\newblock In John-Jules~Ch. Meyer and Milind Tambe, editors, {\em ATAL}, volume
-  2333 of {\em Lecture Notes in Computer Science}, pages 21--31. Springer,
-  2001.
 
 \bibitem{gratch:emotion-intention}
 Jonathan Gratch.
@@ -161,11 +140,6 @@ Eva Hudlicka.
 Carol~Ellis Izard.
 \newblock {\em Human Emotions}.
 \newblock NY: PLenum, 1977.
-
-\bibitem{keating:search-social-intelligence}
-Daniel~P. Keating.
-\newblock A search for social intelligence.
-\newblock {\em Journal of Educational psychology}, 70:218--223, 1978.
 
 \bibitem{kim:model-hri-appraisal}
 Hyoung-Rock Kim and Dong-Soo Kwon.
@@ -234,23 +208,6 @@ Brian Parkinson.
 \newblock Do facial movements express emotions or communicate motives?
 \newblock {\em Personality and Social Psychology Review}, 9(4):278--311, 2005.
 
-\bibitem{parkinson:holds-emotion}
-Brian Parkinson.
-\newblock What holds emotions together? meaning and response coordination.
-\newblock {\em Cognitive System Research}, 10(1):31--47, 2009.
-
-\bibitem{parrott:appraisal-social-emotions}
-W.~Gerrod Parrott.
-\newblock Appraisal, emotion words, and the social nature of self-conscious
-  emotions.
-\newblock {\em Psychological Inquiry}, 15(2):136--138, 2004.
-
-\bibitem{paulus:emotion-decision-belief}
-Martin~P. Paulus and Angela~J. Yu.
-\newblock Emotion and decision-making: affect-driven belief systems in anxiety
-  and depression.
-\newblock {\em Trends in cognitive sciences}, 16(9):476--483, 2012.
-
 \bibitem{posner:circumplex-affect}
 JONATHAN POSNER, JAMES~A. RUSSELL, and BRADLEY~S. PETERSON.
 \newblock The circumplex model of affect: An integrative approach to affective
@@ -310,6 +267,12 @@ Klaus~R. Scherer.
 \newblock {\em Philosophical Transactions of the Royal Society B: Biological
   Sciences}, 364(1535):3459--3474, 2009.
 
+\bibitem{scherer:expression-appraisal}
+Klaus~R. Scherer and Heiner Eligring.
+\newblock Are facial expressions of emotion produced by categorical affect
+  programs or dynamically driven by appraisal?
+\newblock {\em Emotion}, 7(1):113--130, 2007.
+
 \bibitem{scherer:appraisal-processes}
 Klaus~R. Scherer, Angela Schorr, and Tom Johnstone.
 \newblock {\em Appraisal Processes in Emotion: Theory, Methods, Research}.
@@ -326,6 +289,13 @@ Herbert~A. Simon.
 \newblock Motivational and emotional controls of cognition.
 \newblock {\em Psychology Review}, 74(1):29--39, 1967.
 
+\bibitem{smith:computational-facial-expression}
+Craig~A. Smith and Heather~S. Scott.
+\newblock A componential approach to the meaning of facial expressions.
+\newblock In James~A. Russell and José~Miguel Fernández-Dols, editors, {\em
+  The psychology of facial expression. Studies in emotion and social
+  interaction}, pages 229--254. NY: Cambridge University Press, 1997.
+
 \bibitem{tomkins:affect}
 Silvan~S. Tomkins.
 \newblock {\em Affect, Imagery, Consciousness}.
@@ -335,20 +305,5 @@ Silvan~S. Tomkins.
 David Watson and Auke Tellegen.
 \newblock Toward a consensual structure of mood.
 \newblock {\em Psychological Bulletin}, 98(2):219--235, 1985.
-
-\bibitem{wexler:emotional-intelligence-appraisal}
-Mark~N. Wexler.
-\newblock Emotional intelligence: a review and appraisal.
-\newblock {\em The Journal of Public Management}, 30(2):1--8, 2000.
-
-\bibitem{worden:primate-social-intelligence}
-Robert~P. Worden.
-\newblock Primate social intelligence.
-\newblock {\em Cognitive Science}, 20(4):579--616, 1996.
-
-\bibitem{zhu:emotion-action}
-Jing Zhu and Paul Thagard.
-\newblock Emotion and action.
-\newblock {\em Journal of Philosophical Psychology}, 15(1):19--36, 2002.
 
 \end{thebibliography}
