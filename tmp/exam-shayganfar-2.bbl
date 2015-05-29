@@ -51,6 +51,29 @@ Christian Becker-Asano and Ipke Wachsmuth.
 \newblock In {\em 8th International Conference on Intelligent Virtual Agents},
   2008.
 
+\bibitem{brave:emotion-hci}
+Scott Brave and Clifford Nass.
+\newblock Emotion in human-computer interaction.
+\newblock In Julie~A. Jacko and Andrew Sears, editors, {\em The Human-computer
+  Interaction Handbook}, pages 81--96. L. Erlbaum Associates Inc., 2003.
+
+\bibitem{breazeal:sociable-robot}
+Cynthia Breazeal.
+\newblock {\em Designing Sociable Robots}.
+\newblock MIT Press, 2002.
+
+\bibitem{breazeal:expressive-behavior}
+Cynthia Breazeal.
+\newblock Role of expressive behaviour for robots that learn from people.
+\newblock {\em Philosophical transactions of the Royal Society of London.
+  Series B, Biological sciences}, 364(1535):3527--38, 2009.
+
+\bibitem{canamero:designing-activity-selection}
+Lola~D. Canamero.
+\newblock designing emotions for activity selection in autonomous agents.
+\newblock In Robert Trappl, Paolo Petta, and Sabine Payr, editors, {\em
+  Emotions in Humans and Artifacts}, pages 115--148. MIT Press, 2003.
+
 \bibitem{carver:affect-behavior}
 Charles~S. Carver.
 \newblock Affect and the functional bases of behavior: On the dimensional
@@ -124,6 +147,12 @@ Patrick Gebhard.
 \newblock In {\em 5th International Joint Conference on Autonomous Agents and
   Multiagent Systems}, pages 29--36, 2005.
 
+\bibitem{castro:autonomous-robot-fear}
+Alvaro~Castro Gonzalez, Maria Malfaz, and Miguel~Angel Salichs.
+\newblock An autonomous social robot in fear.
+\newblock {\em IEEE Transactions Autonomous Mental Development}, 5(2):135--151,
+  2013.
+
 \bibitem{gratch:emotion-intention}
 Jonathan Gratch.
 \newblock True emotion vs. social intentions in nonverbal communication:
@@ -160,16 +189,35 @@ Shlomo Hareli and Ursula Hess.
   appraisal perspective on person perception.
 \newblock {\em Cognition \& Emotion}, 24(1):128--140, 2009.
 
+\bibitem{hegel:empathic-robot}
+Frank Hegel, Torsten Spexard, Britta Wrede, Gernot Horstmann, and Thurid Vogt.
+\newblock Playing a different imitation game: Interaction with an empathic
+  android robot.
+\newblock In {\em Proceedings of 2006 IEEE-RAS International Conference on
+  Humanoid Robots (Humanoids06)}, 2006.
+
 \bibitem{hess:darwin-emotion}
 Ursula Hess and Pascal Thibault.
 \newblock Darwin and emotion expression.
 \newblock {\em American Psychologist}, 64(2):120--128, 2009.
+
+\bibitem{hudlicka:emotinos-reasons}
+Eva Hudlicka.
+\newblock Reasons for emotinos: Modeling emotinos in integrated cognitive
+  systems.
+\newblock In Wayne~D. Gary, editor, {\em Integrated Models of Cognitive
+  Systems}, volume~59, pages 1--37. New York: Oxford University Press, 2007.
 
 \bibitem{hudlicka:guidelines-emotions}
 Eva Hudlicka.
 \newblock Guidelines for designing computational models of emotions.
 \newblock {\em International Journal of Synthetic Emotions}, 2(1):85--102,
   2011.
+
+\bibitem{marinier:emotion-reinforcement}
+Robert P/~Marinier III and John~E. Laird.
+\newblock Emotion-driven reinforcement learning.
+\newblock In {\em CogSci 2008}, 2008.
 
 \bibitem{izard:human-emotions}
 Carol~Ellis Izard.
@@ -183,6 +231,13 @@ Hyoung-Rock Kim and Dong-Soo Kwon.
 \newblock {\em Journal of Intelligent and Robotic Systems}, 60(2):263--283,
   2010.
 
+\bibitem{kiryazov:modeling-appraisal-pad}
+Kiril Kiryazov, Robert Lowe, Christian Becker-Asano, and Tom Ziemke.
+\newblock Modelling embodied appraisal in humanoids : Grounding pad space for
+  augmented autonomy.
+\newblock In {\em Proceedings of the Workshop on Standards in Emotion
+  Modeling}, 2011.
+
 \bibitem{lazarus:cognitive-theory-emotion}
 Richard~S. Lazarus, J.~R. Averill, and E.~M. Opton.
 \newblock Toward a cognitive theory of emotions.
@@ -194,10 +249,30 @@ Richard~Stanley Lazarus.
 \newblock {\em Emotion and Adaptation}.
 \newblock OXFORD University Press, 1991.
 
+\bibitem{leite:empathy-hri}
+Iolanda Leite, Andr{\'e} Pereira, Samuel Mascarenhas, Carlos Martinho, Rui
+  Prada, and Ana Paiva.
+\newblock The influence of empathy in human-robot relations.
+\newblock {\em International Journal of Human-Computer Studies},
+  71(3):250--260, 2013.
+
 \bibitem{leventhal:emotion-cognition}
 Howard Leventhal and Klaus Scherer.
 \newblock The relationship of emotion to cognition.
 \newblock {\em Cognition and Emotion}, 1:3--28, 1987.
+
+\bibitem{lim:mei-motherese-ei}
+Angelica Lim and Hiroshi~G. Okuno.
+\newblock The mei robot: Towards using motherese to develop multimodal
+  emotional intelligence.
+\newblock {\em IEEE Transactions Autonomous Mental Development}, 6(2):126--138,
+  2014.
+
+\bibitem{liu:affect-robot-behavior}
+Changchun Liu and Nilanjan Sarkar.
+\newblock Online affect detection and robot behavior adaptation for
+  intervention of children with autism.
+\newblock {\em IEEE TRANSACTIONS ON ROBOTICS}, 24(4):883--896, 2008.
 
 \bibitem{mao:social-causality}
 Wenji Mao and Jonathan Gratch.
@@ -235,6 +310,20 @@ Stacy~C. Marsella and Jonathan Gratch.
 \newblock {EMA}: A process model of appraisal dynamics.
 \newblock {\em Cognitive Systems Research}, 10(1):70--90, March 2009.
 
+\bibitem{miranda:teamwork-multiagent-system}
+Juan Mart$\acute{i}$nez-Miranda, Arantza Aldea, and Ren$\acute{e}$
+  Ba$\tilde{n}$ares-Alc$\acute{a}$ntara.
+\newblock Simulation of work teams using a multi-agent system.
+\newblock In {\em The Second International Joint Conference on Autonomous
+  Agents {\&} Multiagent Systems {AAMAS}, July 14-18, Melbourne, Victoria,
+  Australia}, pages 1064--1065, 2003.
+
+\bibitem{scott:modeling-empathy-agent}
+Scott~W. McQuiggan and James~C. Lester.
+\newblock Modeling and evaluating empathy in embodied companion agents.
+\newblock {\em International Journal of Human-Computer Studies},
+  65(4):348--360, 2007.
+
 \bibitem{mehrabian-russell:pad}
 Albert Mehrabian and James~A. Russell.
 \newblock {\em An approach to environmental psychology}.
@@ -245,11 +334,26 @@ Andrew Ortony, Gerald~L. Clore, and Allan Collins.
 \newblock {\em The Cognitive Structure of Emotions}.
 \newblock Cambridge University Press, 1988.
 
+\bibitem{paiva:agent-care}
+Ana Paiva, Joao Dias, Daniel Sobral, Ruth Aylett, Polly Sobreperez, Sarah
+  Woods, Carsten Zoll, and Lynne Hall.
+\newblock Caring for agents and agents that care: Building empathic relations
+  with synthetic agents.
+\newblock In {\em Proceedings of the Third International Joint Conference on
+  Autonomous Agents and Multiagent Systems-Volume 1}, pages 194--201, 2004.
+
 \bibitem{paiva:learning-feeling}
 Ana Paiva, Joao Diasa, Daniel Sobrala, Ruth Aylettb, Sarah Woodsc, Lynne Halld,
   and Carsten Zoll.
 \newblock Learning by fealing: Evoking empathy with synthetic characters.
 \newblock {\em Applied Artificial Intelligence}, 19:235--266, 2005.
+
+\bibitem{paiva:emotion-modeling}
+Ana Paiva, Iolanda Leite, and Tiago Ribeiro.
+\newblock Emotion modeling for sociable robots.
+\newblock In Jonathan Gratch Arvid~Kappas Rafael A.~Calvo, Sidney~D'Mello,
+  editor, {\em Handbook of Affective Computing}, pages 296--308. Oxford
+  University Press, 2014.
 
 \bibitem{panskepp:affective-neuroscience}
 Jaak Panskepp.
@@ -267,11 +371,28 @@ Brian Parkinson.
 \newblock Do facial movements express emotions or communicate motives?
 \newblock {\em Personality and Social Psychology Review}, 9(4):278--311, 2005.
 
+\bibitem{picard:affective-computing}
+Rosalind~W. Picard.
+\newblock {\em Affective Computing}.
+\newblock The MIT Press, 2000.
+
+\bibitem{pontier:women-robot-men}
+Matthijs Pontier and Johan~F. Hoorn.
+\newblock How women think robots perceive them - as if robots were men.
+\newblock In {\em International Conference on Agents and Artificial
+  Intelligence (ICAART-2)}, pages 496--504, 2013.
+
 \bibitem{posner:circumplex-affect}
 JONATHAN POSNER, JAMES~A. RUSSELL, and BRADLEY~S. PETERSON.
 \newblock The circumplex model of affect: An integrative approach to affective
   neuroscience, cognitive development, and psychopathology.
 \newblock {\em Development and Psychopathology}, null(3):715--734, 2005.
+
+\bibitem{prendinger:empathic-companion}
+Helmut Prendinger and Mitsuru Ishizuka.
+\newblock The empathic companion: a character-based interface that addresses
+  users' affective states.
+\newblock {\em Applied Artificial Intelligence}, 19(3-4):267--285, 2005.
 
 \bibitem{rank:appraisal-story-world}
 Stefan Rank and Paolo Petta.
@@ -361,6 +482,11 @@ Matthias Scheutz and Aaron Sloman.
 \newblock In {\em Intelligent Agent Technology}, pages 200--209. World
   Scientific, 2001.
 
+\bibitem{shayganfar:methodology}
+Mohammad Shayganfar, Charles Rich, and Candace~L. Sidner.
+\newblock A design methodology for expressing emotion on robot faces.
+\newblock In {\em IROS}, pages 4577--4583. IEEE, 2012.
+
 \bibitem{si:modeling-appraisal-tom-journal}
 Mei Si, Stacy~C. Marsella, and David~V. Pynadath.
 \newblock Modeling appraisal in theory of mind reasoning.
@@ -385,6 +511,12 @@ Alexander Staller and Paolo Petta.
 \newblock {\em Journal of Artificial Societies and Social Simulation},
   4:615--625, 2001.
 
+\bibitem{bickmore:longterm-relationship}
+Milind Tambe.
+\newblock Establishing and maintaining long-term human-computer relationships.
+\newblock {\em ACM Transactions on Computer-Human Interaction (TOCHI)},
+  12(2):293--327, 2005.
+
 \bibitem{thagard:emotional-coherence}
 Paul Thagard.
 \newblock Why wasn't o. j. convicted: emotional coherence in legal inference.
@@ -402,9 +534,40 @@ David Traum, Jeff Rickel, onathan Gratch, and Stacy Marsella.
 \newblock In {\em International Conference on Autonomous Agents and Multiagent
   Systems}, 2003.
 
+\bibitem{urban:pecs}
+Christoph Urban.
+\newblock Pecs: A reference model for human-like agents.
+\newblock In {\em Deformable Avatars}. Netherlands: Kluwer Academic Publishers,
+  2001.
+
+\bibitem{velasquez:emotions-motivations-agents}
+Juan~D. Vel$\grave{a}$squez.
+\newblock Modeling emotions and other motivations in synthetic agents.
+\newblock In {\em Proceedings of the 14th Nnational Conference on Artificial
+  Intelligence AAAI-97}, pages 10--15, 1997.
+
+\bibitem{vogiatzis:robot-museum}
+Dimitrios Vogiatzis, Constantine Spyropoulos, Vangelis Karkaletsis, Zerrin
+  Kasap, Colin Matheson, and Olivier Deroo.
+\newblock An affective robot guide to museums.
+\newblock In {\em Proceedings of the 4th International Workshop on
+  Human-Computer Conversation}, 2008.
+
 \bibitem{watson:consensual-structure-mood}
 David Watson and Auke Tellegen.
 \newblock Toward a consensual structure of mood.
 \newblock {\em Psychological Bulletin}, 98(2):219--235, 1985.
+
+\bibitem{wehrle:motivations-modeling-emotion}
+Thomas Wehrle.
+\newblock Motivations behind modeling emotional agents: Whose emotion does your
+  robot have?, 1998.
+
+\bibitem{zeng:affect-recognition}
+Zhihong Zeng, Maja Pantic, Glenn~I. Roisman, and Thomas~S. Huang.
+\newblock A survey of affect recognition methods: Audio, visual and spontaneous
+  expressions.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  31(1):39--58, 2009.
 
 \end{thebibliography}
