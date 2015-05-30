@@ -1,4 +1,4 @@
-\begin{thebibliography}{100}
+\begin{thebibliography}{10}
 
 \bibitem{adam:bdi-emotional-companion}
 Carole Adam and Emiliano Lorini.
@@ -301,12 +301,6 @@ Wenji Mao and Jonathan Gratch.
 \newblock In {\em Fourth International Joint Conference on Autonomous Agents
   and Multiagent Systems}, 2006.
 
-\bibitem{parkinson:emotion-social-interaction}
-Claudia Marinetti, Penny Moore, Pablo Lucas, and Brian Parkinson.
-\newblock Emotions in social interactions: Unfolding emotional experience.
-\newblock In {\em Emotion-Oriented Systems, Cognitive Technologies}, pages
-  31--46. Springer Berlin Heidelberg, 2011.
-
 \bibitem{marinier:behavior-emotion}
 Robert~P. MarinierIII, John~E. Laird, and Richard~L. Lewis.
 \newblock A computational unification of cognitive behavior and emotion.
@@ -380,16 +374,6 @@ Jaak Panskepp.
 \newblock {\em Affective Neuroscience: The Foundations of Human and Animal
   Emotions}.
 \newblock NY:Oxford University Press, 1998.
-
-\bibitem{parkinson:emotions-social}
-Brian Parkinson.
-\newblock Emotions are social.
-\newblock {\em British Journal of Psychology}, 87(4):663--683, 1996.
-
-\bibitem{parkinson:emotion-communication}
-Brian Parkinson.
-\newblock Do facial movements express emotions or communicate motives?
-\newblock {\em Personality and Social Psychology Review}, 9(4):278--311, 2005.
 
 \bibitem{picard:affective-computing}
 Rosalind~W. Picard.
