@@ -8,7 +8,7 @@ Too many commas in name 1 of "Rafael A. Calvo, Sidney D'Mello, Jonathan Gratch, 
 while executing---line 1090 of file plain.bst
 You've used 98 entries,
             2118 wiz_defined-function locations,
-            1026 strings with 20784 characters,
+            1026 strings with 20783 characters,
 and the built_in function-call counts, 32766 in all, are:
 = -- 3231
 > -- 1372
