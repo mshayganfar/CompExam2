@@ -762,49 +762,62 @@ more capable of understanding human motivational state
 \cite{conati:evaluating-student-affect} or more able to induce desirable social
 effects in human users \cite{paiva:learning-feeling}.\\
 
-Models influenced by dimensional theories emphasize processes associated with
-core affect and other components (e.g., appraisal) tend to be less elaborately
-developed. Core affect is typically represented as a continuous time-varying
-process that is represented at a given period of time by a point in 3-space that
-is “pushed around” by eliciting events. Computational dimensional models often
-have detailed mechanisms for how this point changes over time -- e.g., decay to
-some resting state -- and incorporating the impact of dispositional tendencies
-such as personality or temperament \cite{gebhard:alma}.
+The emphesis of models influenced by dimensional theories is on processes
+associated with core affect which is usually represented as a continuous
+time-varying process, and it can be determined at a given time by a point in a
+2D or 3D-space as a response to the eliciting events. Generally, there are
+detailed mechanisms in computational dimensional models which determine how this
+point changes over time, e.g., decay to some resting state, and incorporating
+the impact of dispositional tendencies such as personality or temperament
+\cite{gebhard:alma} \cite{marsella:computational-models}. The models based on
+dimensional theories have been also used in robotics. For instance, researchers
+in \cite{lim:mei-motherese-ei} apply PAD's three-dimensional space to rate the
+pleasure, arousal and dominance of their Multimodal Emotional Intelligense robot
+(MEI) in each interaction with human subjects. Thier goal is to introduce the
+first steps in MEI which can understand and express emotions in voice, gesture
+and gait. In \cite{zhang:service-robot-dimensional} researchers want to
+understand the effect of different interface features for a service robot. They
+use valenace and arousal dimenasions in their questionnaires to assess the
+perceived anthropomorphism of their own service robot by their subjects. In
+\cite{klug:emotion-based-hri} researchers introduce the implementation of a
+dynamic personality for a robot based on dimensional emotion model. They use
+WASABI's architecture \cite{becker:wasabi,becker:wasabi-description} as their
+emotional model. In \cite{lisetti:affect-socially-intelligent} the author
+discribes an affective knowledge representation scheme to be used in the design
+of socially intelligent artificial agent. Lisetti uses the valence-arousal two
+dimensional model of emotion in this work. This model has been applied in an
+emotion-based architecture of Lisetti's autonomous robots as well as a
+multimodal affective usr interface agent. ROMAN, an expressive robotic head,
+uses a behavior-based emotional control architecture. The approach to the
+emotional component of the architecture is based on the dimensional emotion
+theory \cite{hirth:roman}.
 
-Researchers in \cite{lim:mei-motherese-ei} apply PAD's three-dimensional space
-to rate the pleasure, arousal and dominance of their Multimodal Emotional
-Intelligense robot (MEI) in each interaction with human subjects. Thier goal is
-to introduce the first steps in MEI which can understand and express emotions in
-voice, gesture and gait.
-
-Computational dimensional models are most often used for animated character
-behavior generation, perhaps because it translates emotion into a small number
-of continuous dimensions that can be readily mapped to continuous features of
-behavior such as the spatial extent of a gesture. For example, PAD models
-describe all behavior in terms of only three dimensions whereas modelers using
-appraisal models must either associate behaviors with a larger number of
-appraisal dimensions \cite{scherer:expression-appraisal}
-\cite{smith:computational-facial-expression} or map appraisals into a small
-number of discrete, though perhaps intensity-varying, expressions
+Researchers often use computational dimensional models for behavior generation
+of animated characters. The reason might be because it is easier for emotion
+translation to a limited number of dimensions that can be readily mapped to
+continuous features of behavior such as the spatial extent of a facial
+expression. For example, PAD models describe all behavior in terms of only three
+dimensions od pleasure, arousal and dominance, whereas researchers using
+appraisal models should either associate each behavior with a large number of
+appraisal variables \cite{scherer:expression-appraisal}
+\cite{smith:computational-facial-expression}, or try to map appraisals variables
+into a limited and small number of discrete expressions
 \cite{elliott:affective-reasoner}. For a similar reason, dimensional models also
 frequently used as a good representational framework for systems that attempt to
 recognize human emotional behavior and there is some evidence that they may
 better discriminate user affective states than approaches that rely on discrete
 labels \cite{barrett:emotions-natural}.
 
-The relationship between core affect and cognition is generally less explored in
-dimensional approaches. Typically the connection between emotion-eliciting
-events and current core-affective state is not maintained, consistent with
-Russell’s view of emotion as a non-intentional state
-\cite{becker:affect-primary-secondary}. Many computational models of emotion
-that incorporate core affect have viewed appraisal as the mechanism that
-initiates changes to core affect. For example Gebhard’s ALMA model
-\cite{gebhard:alma} includes OCC inspired appraisal rules \cite{occ:structure}
-and WASABI \cite{becker:wasabi} incorporates appraisal processes inspired by
-Scherer’s sequential-checking theory into a PAD-based model of core affect. Some
-computational models explore how core affect can influence cognitive processes.
-For example, HOTCO 2 \cite{thagard:emotional-coherence} allows explanations to
-be biased by dimensional affect.
+There is also a relationship between dimensional and appraisal theories. Some of
+computational models of emotion that incorporate dimensional theories have
+viewed appraisal as the mechanism that initiates changes to core affect. For
+instance, ALMA \cite{gebhard:alma} includes OCC inspired appraisal rules
+\cite{occ:structure}, and WASABI \cite{becker:wasabi} includes appraisal
+processes inspired by Scherer's sequential-checking theory into a PAD-based
+emotion model. Moreover, some computational models explore how core affect in
+dimensional models can influence cognitive processes. For example, HOTCO 2
+\cite{thagard:emotional-coherence} allows explanations to be biased by
+dimensional affect \cite{marsella:computational-models}.
 
 \section{Conclusion}
 \label{sec:conclusion}

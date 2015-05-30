@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  30 MAY 2015 12:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  30 MAY 2015 15:16
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -365,30 +365,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 713--764
 
  []
 
-[19]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ú in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ù in font cmr10!
- [20]
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
-
-Overfull \hbox (4.47319pt too wide) in paragraph at lines 795--808
-\OT1/cmr/m/n/10.95 plored in di-men-sional ap-proaches. Typ-i-cally the con-nec
--tion be-tween emotion-
- []
-
-(./exam-shayganfar-2.bbl [21]
+[19] [20] (./exam-shayganfar-2.bbl [21]
 ! Misplaced alignment tab character &.
 l.30 \newblock Cassell &
                          Co., 1960.
@@ -400,43 +377,49 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 [22] [23] [24]
-Underfull \hbox (badness 1122) in paragraph at lines 235--240
-[][]\OT1/cmr/m/n/10.95 Kiril Kirya-zov, Robert Lowe, Chris-tian Becker-Asano, a
-nd Tom
+Underfull \hbox (badness 1742) in paragraph at lines 249--253
+[][]\OT1/cmr/m/n/10.95 Marius Klug and An-dreas Zell.  Emotion-based human-robo
+t-
  []
 
-[25] [26] [27] [28]
+[25]
+Underfull \hbox (badness 1019) in paragraph at lines 322--327
+[][]\OT1/cmr/m/n/10.95 Stacy Marsella, Jonathan Grath, and Paolo Petta.  Com-pu
+-ta-
+ []
+
+[26]
+Underfull \hbox (badness 4686) in paragraph at lines 334--340
+[][]\OT1/cmr/m/n/10.95 Juan Mart$[]$nez-Miranda, Arantza Aldea, and Ren$[]$ Ba$
+[]$ares-
+ []
+
+[27] [28] [29]
 Missing character: There is no √ in font cmr10!
 Missing character: There is no © in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ° in font cmr10!
-
-Underfull \hbox (badness 1038) in paragraph at lines 515--519
-[][]\OT1/cmr/m/n/10.95 Milind Tambe.  Es-tab-lish-ing and main-tain-ing long-te
-rm human-
- []
-
-[29]) [30] (./exam-shayganfar-2.aux) ) 
+ [30]) [31] (./exam-shayganfar-2.aux) ) 
 Here is how much of TeX's memory you used:
- 2593 strings out of 495028
- 36328 string characters out of 6181497
- 92996 words of memory out of 5000000
- 5754 multiletter control sequences out of 15000+600000
+ 2597 strings out of 495028
+ 36429 string characters out of 6181497
+ 93014 words of memory out of 5000000
+ 5758 multiletter control sequences out of 15000+600000
  11059 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,5n,26p,249b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on exam-shayganfar-2.pdf (30 pages, 1378846 bytes).
+</usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on exam-shayganfar-2.pdf (31 pages, 1380954 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 145 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

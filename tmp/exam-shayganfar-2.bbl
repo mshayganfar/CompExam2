@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{adam:bdi-emotional-companion}
 Carole Adam and Emiliano Lorini.
@@ -45,11 +45,12 @@ Christian Becker-asano.
   Interactivity}.
 \newblock PhD thesis, University of Bielefeld, 2008.
 
-\bibitem{becker:affect-primary-secondary}
-Christian Becker-Asano and Ipke Wachsmuth.
-\newblock Affect simulation with primary and secondary emotions.
-\newblock In {\em 8th International Conference on Intelligent Virtual Agents},
-  2008.
+\bibitem{becker:wasabi-description}
+Christian Becker-Asano.
+\newblock Wasabi for affect simulation in human-computer interaction:
+  Architecture description and example applications.
+\newblock In {\em Proceedings of ERM4HCI workshop in conjunction with ICMI
+  2013}. Springer, 2013.
 
 \bibitem{brave:emotion-hci}
 Scott Brave and Clifford Nass.
@@ -201,6 +202,12 @@ Ursula Hess and Pascal Thibault.
 \newblock Darwin and emotion expression.
 \newblock {\em American Psychologist}, 64(2):120--128, 2009.
 
+\bibitem{hirth:roman}
+Jochen Hirth, Norbert Schmitz, and Karsten Berns.
+\newblock Emotional architecture for the humanoid robot head roman.
+\newblock In {\em IEEE International Conference on Robotics and Automation}.
+  IEEE, 2007.
+
 \bibitem{hudlicka:emotinos-reasons}
 Eva Hudlicka.
 \newblock Reasons for emotinos: Modeling emotinos in integrated cognitive
@@ -238,6 +245,12 @@ Kiril Kiryazov, Robert Lowe, Christian Becker-Asano, and Tom Ziemke.
 \newblock In {\em Proceedings of the Workshop on Standards in Emotion
   Modeling}, 2011.
 
+\bibitem{klug:emotion-based-hri}
+Marius Klug and Andreas Zell.
+\newblock Emotion-based human-robot-interaction.
+\newblock In {\em IEEE 9th International Conference on Computational
+  Cybernetics (ICCC)}, 2013.
+
 \bibitem{lazarus:cognitive-theory-emotion}
 Richard~S. Lazarus, J.~R. Averill, and E.~M. Opton.
 \newblock Toward a cognitive theory of emotions.
@@ -267,6 +280,13 @@ Angelica Lim and Hiroshi~G. Okuno.
   emotional intelligence.
 \newblock {\em IEEE Transactions Autonomous Mental Development}, 6(2):126--138,
   2014.
+
+\bibitem{lisetti:affect-socially-intelligent}
+Christine~L. Lisetti.
+\newblock Personality, affect and emotion taxonomy for socially intelligent
+  agents.
+\newblock In {\em Proceedings of the Fifteenth International Florida Artificial
+  Intelligence Research Society Conference}. AAAI Press, 2002.
 
 \bibitem{liu:affect-robot-behavior}
 Changchun Liu and Nilanjan Sarkar.
@@ -569,5 +589,12 @@ Zhihong Zeng, Maja Pantic, Glenn~I. Roisman, and Thomas~S. Huang.
   expressions.
 \newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
   31(1):39--58, 2009.
+
+\bibitem{zhang:service-robot-dimensional}
+Tao Zhang, David~B. Kaber, Biwen Zhu, Manida Swangnetr, Prithima Mosaly, and
+  Lashanda Hodge.
+\newblock Service robot feature design effects on user perceptions and
+  emotional responses.
+\newblock {\em Intelligent Service Robotics}, 3(2):73--88, 2010.
 
 \end{thebibliography}
