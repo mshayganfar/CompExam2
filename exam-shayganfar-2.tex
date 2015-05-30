@@ -661,132 +661,121 @@ emotion group, hence number (1) is indicated in fornt of each.
 \section{Applications in Autonomous Agents and Robots}
 \label{sec:applications}
 
-There are several examples in artificial intelligence and robotics of applying
-emotion theories such as appraisal theory
-\cite{adam:bdi-emotional-companion,kim:model-hri-appraisal,
-marsella:ema-process-model}. In \cite{sander:systems-approach-appraisal} authors
-describe a system approach to appraisal processes based on Scherer's work on
-appraisal and the Component Process Model (CPM)
-\cite{scherer:nature-function-emotion}. They show how the temporal unfolding of
-emotions can be experimentally tested. They lay out a general domain-independent
-computational model of appraisal and coping.
-
-Some researchers apply combination of emotion theories in thier work
-\cite{kiryazov:modeling-appraisal-pad}. For instance, in
-\cite{canamero:designing-activity-selection} Canamero shows how an agent can use
-emotions for activity selection while taking into account both dimensional and
-discrete appraches in an action selection mechanism. As another example, in PECS
-\cite{urban:pecs} which is designed for modeling human behaviors, the
+There are many research areas, including robotics and autonomous agents, that
+employ the structure and/or functions of emotinos in their work with variety of
+motivations behind modeling emotions \cite{wehrle:motivations-modeling-emotion}.
+Some of these works are inspired by specific psychological theories (we provide
+several examples in this section), some are freely using the concept of emotion
+without using the theoretical background in social sciences, and some are using
+combination of concepts from the psychological theories. For instance, in PECS
+\cite{urban:pecs} which is designed for modeling human behaviors, the agent's
 architecture is not based on a certain kind of social or psychological emotion
 theory. In fact, it is intentionally designed and described in a way which
-enables the integration of a variety of theories. In
-\cite{miranda:teamwork-multiagent-system} the computational architecture is not
-based any specific theory either.
+enables the integration of a variety of theories. The PECS' design enables an
+integrative modeling of physical, emotional, cognitive and social influences
+within a component-oriented agent architecture. Also, in
+\cite{miranda:teamwork-multiagent-system} the computational architecture which
+is designed to provide information about the possible overall behavior of a work
+team, is not based any specific theory. As we mentioned earlier, some
+researchers apply combination of emotion theories in thier work
+\cite{kiryazov:modeling-appraisal-pad}. For instance, in
+\cite{canamero:designing-activity-selection} $Ca\tilde{n}amero$ shows how an
+agent can use emotions for activity selection while taking into account both
+dimensional and discrete appraches in an action selection mechanism. Through out
+this section, we provide different examples of works on using major emotion
+theories in robots and autonomous agents.
 
-Velasquez developed Cathexis which is a distributed comoputational model for
-generation of emotions and their influence in the behavior of the autonomous
-agents \cite{velasquez:emotions-motivations-agents}. The emotion model is based
-on Roseman's work on appraisal theory.
+We can also see the applicaiton of emotion theories in designing companion
+robots, robots capable of expressing emotions and social behaviors, as well
+as robots which can convey certain types of emotion products, e.g., empathy
+\cite{breazeal:expressive-behavior} \cite{leite:empathy-hri}
+\cite{paiva:emotion-modeling} \cite{shayganfar:methodology}. Robots also use
+emotions theories for automatic affect recognition using different modalities
+\cite{hegel:empathic-robot} \cite{zeng:affect-recognition}. Moreover, in some
+works, researchers have explored the user’s affective state as a mechanism to
+adapt the robot’s behaviours during the interaction
+\cite{breazeal:sociable-robot} \cite{liu:affect-robot-behavior}.\\
 
-In \cite{hudlicka:emotinos-reasons} Hudlicka provides a model of a generic
-mechanism mediating the affective influeces on cognition based on cognitive
-appraisal. This model is implemented within a domain-independent
-cognitive-affective architecture (MAMAID).
+The emphesis of models derived from appraisal theories of emotion is on
+making appraisal as the central process. Computational appraisal models often
+exploit elaborate mechanisms for deriving appraisal variables such as
+decision-theoretic plans \cite{gratch:domain-independent}
+\cite{marsella:ema-process-model}, reactive plans
+\cite{rank:appraisal-story-world} \cite{neal:modeling-antecedents}
+\cite{staller:emotion-social-norm}, Markov-decision processes
+\cite{elnasr:flame} \cite{si:modeling-appraisal-tom-journal}, or detailed
+cognitive models \cite{marinier:behavior-emotion}. However, emotion itself is
+sometimes treated less elaborately, and simply as a label to which behavior can
+be attached \cite{elliott:affective-reasoner}. Appraisal is usually modeled as
+the cause of emotion being derived via simple rules on a set of appraisal
+variables.
 
-Marinier and Laird in \cite{marinier:emotion-reinforcement} focus on the
-functional benefits of emotion in a cognitive system. In this work, they
-integrate their emotion theory (which is based on the appraisal theory) with
-Soar cognitive architecture, and use emotional feedback to drive reinforcement
-learning.
-
--Robots:
-
-There are a variety of motivations behind modeling emotions for decades
-\cite{wehrle:motivations-modeling-emotion}.
-
-Different emotion theories are also used in robotic projects. In
-\cite{kim:model-hri-appraisal} researchers provide their computational model
-of emotion generation based on the appraisal theory.
-
-We can see the applicaiton of emotion theories in designing companion robots and
-robots capable of expressing emotions and social behaviors, and robots which can
-convey certain types of emotion products, e.g., empathy
-\cite{breazeal:expressive-behavior} 
-\cite{leite:empathy-hri} \cite{paiva:emotion-modeling}
-\cite{shayganfar:methodology}. Robots also use emotions theories for automatic
-affect recognition using different modalities \cite{hegel:empathic-robot}
-\cite{zeng:affect-recognition}. Other researchers have explored the user’s
-affective state as a mechanism to adapt the robot’s behaviours
-\cite{liu:affect-robot-behavior} \cite{breazeal:sociable-robot}.
-
-In \cite{vogiatzis:robot-museum} researchers consider their robot's (INDIGO)
+Computational appraisal models have been applied to a variety of uses including
+contributions to psychology, robotics, AI, and HCI. For instance, Marsella and
+Gratch have used EMA \cite{marsella:ema-process-model} to generate specific
+predictions about how human subjects will appraise and cope with emotional
+situations and argue that empirical tests of these predictions have implications
+for psychological appraisal theory \cite{gratch:assessing-appraisal}
+\cite{marsella:assessing-coping}. There are several examples in artificial
+intelligence and robotics of applying appraisal theory
+\cite{adam:bdi-emotional-companion} \cite{kim:model-hri-appraisal}
+\cite{marsella:ema-process-model}. In robotics, the appraisal theory has been
+used to establish and mainatin a better interaction between a robot and a human.
+For instance in \cite{kim:model-hri-appraisal} researchers provide their
+computational model of emotion generation based on the appraisal theory to have
+a positive human-robot interaction experience. In
+\cite{sander:systems-approach-appraisal} authors describe a system approach to
+appraisal processes based on Scherer's work on appraisal and the Component
+Process Model (CPM) \cite{scherer:nature-function-emotion}. They show how the
+temporal unfolding of emotions can be experimentally tested. They also lay out a
+general domain-independent computational model of appraisal and coping. In
+\cite{vogiatzis:robot-museum} researchers consider their robot's (INDIGO)
 emotion, speech and facial expressions as a key point to establish an effective
 communication between the robot and a human during ther interaction. They apply
 concepts of appraisal theory in INDIGO's emotion modeling. MAGGIE, a sociable
 robot, also applies the appraisal theory of emotions to consider fear in its
-decision making system \cite{castro:autonomous-robot-fear}.
+decision making system \cite{castro:autonomous-robot-fear}. Velasquez developed
+Cathexis which is a distributed comoputational model for generation of emotions
+and their influence in the behavior of the autonomous agents
+\cite{velasquez:emotions-motivations-agents}. The emotion model in this work is
+based on Roseman's work on appraisal theory. Marinier and Laird in
+\cite{marinier:emotion-reinforcement} focus on the functional benefits of
+emotion in a cognitive system. In this work, they integrate their emotion theory
+(which is based on the appraisal theory) with Soar cognitive architecture, and
+use emotional feedback to drive reinforcement learning. In
+\cite{hudlicka:emotinos-reasons} Hudlicka provides a model of a generic
+mechanism mediating the affective influeces on cognition based on cognitive
+appraisal. This model is implemented within a domain-independent
+cognitive-affective architecture (MAMAID). In the virtual agents community,
+empathy is a research topic that has received much attention in the last decade
+\cite{brave:emotion-hci} \cite{scott:modeling-empathy-agent}
+\cite{paiva:agent-care} \cite{prendinger:empathic-companion}
+\cite{bickmore:longterm-relationship}. In \cite{pontier:women-robot-men}
+researchers developed an agent with capability of affective decision-making
+based on the appraisal theory to establish an affective relationship with its
+users. Then, they comopared the performance of their agent with human (based on
+a WoZ study) in a speed-dating experiment. In HCI, the appraisal theory has been
+primarily used for the creation of interactive characters that exhibit emotions
+in order to make characters more believable \cite{neal:believable-agents}, more
+realistic \cite{mao:social-causality} \cite{traum:negotiation-teams-training},
+more capable of understanding human motivational state
+\cite{conati:evaluating-student-affect} or more able to induce desirable social
+effects in human users \cite{paiva:learning-feeling}.\\
+
+Models influenced by dimensional theories emphasize processes associated with
+core affect and other components (e.g., appraisal) tend to be less elaborately
+developed. Core affect is typically represented as a continuous time-varying
+process that is represented at a given period of time by a point in 3-space that
+is “pushed around” by eliciting events. Computational dimensional models often
+have detailed mechanisms for how this point changes over time -- e.g., decay to
+some resting state -- and incorporating the impact of dispositional tendencies
+such as personality or temperament \cite{gebhard:alma}.
 
 Researchers in \cite{lim:mei-motherese-ei} apply PAD's three-dimensional space
 to rate the pleasure, arousal and dominance of their Multimodal Emotional
 Intelligense robot (MEI) in each interaction with human subjects. Thier goal is
 to introduce the first steps in MEI which can understand and express emotions in
 voice, gesture and gait.
-
-In the virtual agents community, empathy is a research topic that has received
-much attention in the last decade \cite{paiva:agent-care}
-\cite{prendinger:empathic-companion} \cite{bickmore:longterm-relationship}
-\cite{brave:emotion-hci} \cite{scott:modeling-empathy-agent}. In
-\cite{pontier:women-robot-men} researchers developed an agent with capability of
-affective decision-making based on the appraisal theory to establish an
-affective relationship with its users. Then, they comopared the performance of
-their agent with human (based on a WoZ study) in a speed-dating experiment.
-
-Models derived from appraisal theories of emotion, not surprisingly, emphasize
-appraisal as the central process to be modeled. Computational appraisal models
-often encode elaborate mechanisms for deriving appraisal variables such as
-decision-theoretic plans \cite{gratch:domain-independent}
-\cite{marsella:ema-process-model}, reactive plans
-\cite{rank:appraisal-story-world} \cite{neal:modeling-antecedents}
-\cite{staller:emotion-social-norm}, Markov-decision processes
-\cite{elnasr:flame} \cite{si:modeling-appraisal-tom-journal}, or detailed
-cognitive models \cite{marinier:behavior-emotion}. Emotion itself is often less
-elaborately modeled. It is sometimes treated simply as a label (sometimes with
-an intensity) to which behavior can be attached
-\cite{elliott:affective-reasoner}. Appraisal is typically modeled as the cause
-of emotion with specific emotion label being derived via if-then rules on a set
-of appraisal variables. Some approaches make a distinction between a specific
-emotion instance (allowing multiple instances to be derived from the same event)
-and a more generalized ``affective state" or ``mood". Some more recent models
-attempt to model the impact of momentary emotion and mood on the appraisal
-process \cite{gebhard:alma}
-\cite{gratch:domain-independent}
-\cite{marsella:ema-process-model} \cite{paiva:learning-feeling}).
-
-Computational appraisal models have been applied to a variety of uses including
-contributions to psychology, AI and HCI. For example, Marsella and Gratch have
-used EMA to generate specific predictions about how human subjects will appraise
-and cope with emotional situations and argue that empirical tests of these
-predictions have implications for psychological appraisal theory
-\cite{gratch:assessing-appraisal} \cite{marsella:assessing-coping}. Several
-authors have argued that appraisal processes would be required by any
-intelligent agent that must operate in real-time, multi-agent environments
-\cite{staller:emotion-social-norm} . The bulk of application of these
-techniques, however, has been for HCI applications, primarily for the creation
-of real-time interactive characters that exhibit emotions in order to make these
-characters more compelling \cite{neal:believable-agents}, more realistic
-\cite{mao:social-causality} \cite{traum:negotiation-teams-training}, more able
-to understand human motivational state \cite{conati:evaluating-student-affect}
-or more able to induce desirable social effects in human users
-\cite{paiva:learning-feeling}.
-
-Models influenced by dimensional theories, not surprisingly, emphasize processes
-associated with core affect and other components (e.g., appraisal) tend to be
-less elaborately developed. Core affect is typically represented as a continuous
-time-varying process that is represented at a given period of time by a point in
-3-space that is “pushed around” by eliciting events. Computational dimensional
-models often have detailed mechanisms for how this point changes over time --
-e.g., decay to some resting state -- and incorporating the impact of
-dispositional tendencies such as personality or temperament \cite{gebhard:alma}.
 
 Computational dimensional models are most often used for animated character
 behavior generation, perhaps because it translates emotion into a small number
