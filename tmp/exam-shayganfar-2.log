@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  13 JUN 2015 16:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.19)  13 JUN 2015 21:58
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -256,7 +256,7 @@ Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Overfull \hbox (3.93468pt too wide) in paragraph at lines 258--268
+Overfull \hbox (3.93468pt too wide) in paragraph at lines 261--271
 []\OT1/cmr/m/n/10.95 OCC (Ortony, Clore and Collins) model, sim-i-lar to Lazaru
 s' [[]] and Scherer's
  []
@@ -264,32 +264,33 @@ s' [[]] and Scherer's
 [6] <figure/occ.png, id=30, 1339.0025pt x 609.27625pt>
 File: figure/occ.png Graphic file (type png)
  <use figure/occ.png>
-Package pdftex.def Info: figure/occ.png used on input line 271.
+Package pdftex.def Info: figure/occ.png used on input line 274.
 (pdftex.def)             Requested size: 360.0pt x 163.80952pt.
+
+[7 <./figure/occ.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-[7 <./figure/occ.png (PNG copy)>]
 <figure/occ-structure.jpg, id=35, 648.4225pt x 640.3925pt>
 File: figure/occ-structure.jpg Graphic file (type jpg)
 
 <use figure/occ-structure.jpg>
-Package pdftex.def Info: figure/occ-structure.jpg used on input line 310.
+Package pdftex.def Info: figure/occ-structure.jpg used on input line 313.
 (pdftex.def)             Requested size: 323.9978pt x 319.99025pt.
  [8 <./figure/occ-structure.jpg>]
 <figure/core-affect.png, id=39, 805.0075pt x 638.385pt>
 File: figure/core-affect.png Graphic file (type png)
 
 <use figure/core-affect.png>
-Package pdftex.def Info: figure/core-affect.png used on input line 346.
+Package pdftex.def Info: figure/core-affect.png used on input line 349.
 (pdftex.def)             Requested size: 251.9989pt x 199.83574pt.
  [9 <./figure/core-affect.png (PNG copy)>]
 <figure/dimensional2.png, id=43, 762.85pt x 632.3625pt>
 File: figure/dimensional2.png Graphic file (type png)
 
 <use figure/dimensional2.png>
-Package pdftex.def Info: figure/dimensional2.png used on input line 364.
+Package pdftex.def Info: figure/dimensional2.png used on input line 368.
 (pdftex.def)             Requested size: 216.0022pt x 179.048pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -302,7 +303,7 @@ Missing character: There is no ù in font cmr10!
 File: figure/basic-emotions.jpg Graphic file (type jpg)
 
 <use figure/basic-emotions.jpg>
-Package pdftex.def Info: figure/basic-emotions.jpg used on input line 396.
+Package pdftex.def Info: figure/basic-emotions.jpg used on input line 400.
 (pdftex.def)             Requested size: 323.9978pt x 289.05888pt.
  [11 <./figure/basic-emotions.jpg>]
 Missing character: There is no ‚ in font cmr10!
@@ -313,40 +314,35 @@ Missing character: There is no ô in font cmr10!
 File: figure/dimensional-discrete.png Graphic file (type png)
 
 <use figure/dimensional-discrete.png>
-Package pdftex.def Info: figure/dimensional-discrete.png used on input line 523
+Package pdftex.def Info: figure/dimensional-discrete.png used on input line 530
 .
 (pdftex.def)             Requested size: 323.9978pt x 228.32944pt.
  [14 <./figure/dimensional-discrete.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-LaTeX Font Info:    Try loading font information for U+msa on input line 577.
+LaTeX Font Info:    Try loading font information for U+msa on input line 584.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 577.
+LaTeX Font Info:    Try loading font information for U+msb on input line 584.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [15]
-<figure/occ-circumplex-mapping.png, id=65, 1179.40625pt x 897.3525pt>
+) [15] [16]
+<figure/occ-circumplex-mapping.png, id=68, 1179.40625pt x 897.3525pt>
 File: figure/occ-circumplex-mapping.png Graphic file (type png)
 
 <use figure/occ-circumplex-mapping.png>
 Package pdftex.def Info: figure/occ-circumplex-mapping.png used on input line 6
-23.
+30.
 (pdftex.def)             Requested size: 323.9978pt x 246.51938pt.
- [16] [17 <./figure/occ-circumplex-mapping.png (PNG copy)>]
+ [17 <./figure/occ-circumplex-mapping.png (PNG copy)>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 670--680
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 695--746
+Underfull \hbox (badness 10000) in paragraph at lines 677--687
 
  []
 
@@ -386,10 +382,10 @@ rm human-
 
 [29]) [30] (./exam-shayganfar-2.aux) ) 
 Here is how much of TeX's memory you used:
- 2594 strings out of 495028
- 36331 string characters out of 6181497
- 93999 words of memory out of 5000000
- 5755 multiletter control sequences out of 15000+600000
+ 2595 strings out of 495028
+ 36351 string characters out of 6181497
+ 92011 words of memory out of 5000000
+ 5756 multiletter control sequences out of 15000+600000
  11059 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,5n,26p,249b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -401,7 +397,7 @@ fonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 r10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on exam-shayganfar-2.pdf (30 pages, 1379539 bytes).
+Output written on exam-shayganfar-2.pdf (30 pages, 1380051 bytes).
 PDF statistics:
  141 PDF objects out of 1000 (max. 8388607)
  91 compressed objects within 1 object stream

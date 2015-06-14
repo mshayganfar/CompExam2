@@ -219,6 +219,9 @@ certain emotion or emotional expressions. These appraisal variables include
   causal agent (this variable is related to coping process).
 \end{itemize}
 
+\subsubsection{Coping Process}
+\label{sec:coping-process}
+
 Another key process involved in appraisal is the coping process. This process
 determines whether and how the agent shoud respond with respect to the outcome
 of appraising the events. There are several coping strategies that computational
@@ -323,8 +326,8 @@ encountering events, agents or objects. These variables are as follows:
 	\item Proximity variable (representing the psychological proximity of an event,
 	agent or object),
 
-	\item Unexpectedness (representing how unexpectedly one is taken by surprise,
-	either positive or negative),
+	\item Unexpectedness (representing how surprising an event is for one, either
+	positive or negative),
 
 	\item Arousal (representing how arousing an event, agent or object is).
 \end{enumerate}
@@ -344,7 +347,8 @@ looking at them as discrete entities (see Section \ref{sec:discrete-emotions})
 \begin{figure}[tbh]
   \center
   \includegraphics[width=.7\textwidth]{figure/core-affect.png}
-  \caption{Core affect \cite{russell:core-affect}.}
+  \caption{Russell's suggested affective states based on core affect
+  \cite{russell:core-affect}.}
   \label{fig:core-affect}
 \end{figure}
 
@@ -474,7 +478,10 @@ distinct primitives). These different perspectives also provide different
 degrees of support for the distinct processes of emotion, e.g., the componential
 theories provide extensive details about cognitive appraisals
 \cite{hudlicka:guidelines-emotions}. Therefore, I am going to provide a pairwise
-comparison between these fundamental theories.
+comparison between these fundamental theories. Note that a distinct pairwise
+comparison will not be provided for appraisal vs.\,discrete (basic) emotion
+theories as important points are adequately covered in the comparisons presented
+below.
 
 \subsection{Dimensional Vs. Discrete (Basic) Emotion Theories}
 
@@ -678,12 +685,12 @@ works, researchers have explored the user’s affective state as a mechanism to
 adapt the robot's behaviors during the interaction
 \cite{breazeal:sociable-robot} \cite{liu:affect-robot-behavior}.\\
 
-The emphasis of models derived from appraisal theories of emotion is on
-making appraisal the central process. Computational appraisal models often
-exploit elaborate mechanisms for deriving appraisal variables such as
-decision-theoretic plans \cite{gratch:domain-independent}
-\cite{marsella:ema-process-model}, reactive plans
-\cite{rank:appraisal-story-world} \cite{neal:modeling-antecedents}
+\textbf{Applications of Appraisal Theory} -- The emphasis of models derived from
+appraisal theories of emotion is on making appraisal the central process.
+Computational appraisal models often exploit elaborate mechanisms for deriving
+appraisal variables such as decision-theoretic plans
+\cite{gratch:domain-independent} \cite{marsella:ema-process-model}, reactive
+plans \cite{rank:appraisal-story-world} \cite{neal:modeling-antecedents}
 \cite{staller:emotion-social-norm}, Markov-decision processes
 \cite{elnasr:flame} \cite{si:modeling-appraisal-tom-journal}, or detailed
 cognitive models \cite{marinier:behavior-emotion}. However, emotion itself is
@@ -728,32 +735,34 @@ use emotional feedback to drive reinforcement learning. In
 \cite{hudlicka:emotinos-reasons} Hudlicka provides a model of a generic
 mechanism mediating the affective influences on cognition based on cognitive
 appraisal. This model is implemented within a domain-independent
-cognitive-affective architecture (MAMAID). In the virtual agents community,
-empathy is a research topic that has received much attention in the last decade
-\cite{brave:emotion-hci} \cite{scott:modeling-empathy-agent}
-\cite{paiva:agent-care} \cite{prendinger:empathic-companion}
-\cite{bickmore:longterm-relationship}. In \cite{pontier:women-robot-men}
-researchers developed an agent with capability of affective decision-making
-based on appraisal theory to establish an affective relationship with its users.
-Then, they compared the performance of their agent with a human (based on a WoZ
-study) in a speed-dating experiment. In HCI, the appraisal theory has been
-primarily used for the creation of interactive characters that exhibit emotions
-in order to make characters more believable \cite{neal:believable-agents}, more
-realistic \cite{mao:social-causality} \cite{traum:negotiation-teams-training},
-more capable of understanding human motivational states
-\cite{conati:evaluating-student-affect} or more able to induce desirable social
-effects in human users \cite{paiva:learning-feeling}.\\
+cognitive-affective architecture (MAMAID). 
 
-The emphasis of models influenced by dimensional theories is on processes
-associated with core affect which is usually represented as a continuous
-time-varying process, and it can be determined at a given time by a point in a
-2D or 3D-space as a response to the eliciting events. Generally, there are
-detailed mechanisms in computational dimensional models which determine how this
-point changes over time, e.g., decay to some resting state, and incorporating
-the impact of dispositional tendencies such as personality or temperament
-\cite{gebhard:alma} \cite{marsella:computational-models}. The models based on
-dimensional theories have also been used in robotics. For instance, researchers
-in \cite{lim:mei-motherese-ei} apply PAD's three-dimensional space to rate the
+In the virtual agents community, empathy is a research topic that has received
+much attention in the last decade \cite{brave:emotion-hci}
+\cite{scott:modeling-empathy-agent} \cite{paiva:agent-care}
+\cite{prendinger:empathic-companion} \cite{bickmore:longterm-relationship}. In
+\cite{pontier:women-robot-men} researchers developed an agent with capability of
+affective decision-making based on appraisal theory to establish an affective
+relationship with its users. Then, they compared the performance of their agent
+with a human (based on a WoZ study) in a speed-dating experiment. In HCI, the
+appraisal theory has been primarily used for the creation of interactive
+characters that exhibit emotions in order to make characters more believable
+\cite{neal:believable-agents}, more realistic \cite{mao:social-causality}
+\cite{traum:negotiation-teams-training}, more capable of understanding human
+motivational states \cite{conati:evaluating-student-affect} or more able to
+induce desirable social effects in human users \cite{paiva:learning-feeling}.
+
+\textbf{Applications of Dimensional Theory} -- The emphasis of models influenced
+by dimensional theories is on processes associated with core affect which is
+usually represented as a continuous time-varying process, and it can be
+determined at a given time by a point in a 2D or 3D-space as a response to the
+eliciting events. Generally, there are detailed mechanisms in computational
+dimensional models which determine how this point changes over time, e.g., decay
+to some resting state, and incorporating the impact of dispositional tendencies
+such as personality or temperament \cite{gebhard:alma}
+\cite{marsella:computational-models}. The models based on dimensional theories
+have also been used in robotics. For instance, researchers in
+\cite{lim:mei-motherese-ei} apply PAD's three-dimensional space to rate the
 pleasure, arousal and dominance of their Multimodal Emotional Intelligence robot
 (MEI) in each interaction with human subjects. Their goal is to introduce the
 first steps in MEI which can understand and express emotions in voice, gesture
@@ -774,14 +783,15 @@ uses a behavior-based emotional control architecture. The approach to the
 emotional component of the architecture is based on the dimensional emotion
 theory \cite{hirth:roman}.
 
-Researchers often use computational dimensional models for behavior generation
-of animated characters. The reason might be because it is easier for emotion
-translation to a limited number of dimensions that can be readily mapped to
-continuous features of behavior such as the spatial extent of a facial
-expression. For example, PAD models describe all behavior in terms of only three
-dimensions of pleasure, arousal and dominance, whereas researchers using
-appraisal models should either associate each behavior with a large number of
-appraisal variables \cite{scherer:expression-appraisal}
+\textbf{Comparison of Applications of Emotion Theories} -- Researchers often use
+computational dimensional models for behavior generation of animated characters.
+The reason might be because it is easier for emotion translation to a limited
+number of dimensions that can be readily mapped to continuous features of
+behavior such as the spatial extent of a facial expression. For example, PAD
+models describe all behavior in terms of only three dimensions of pleasure,
+arousal and dominance, whereas researchers using appraisal models should either
+associate each behavior with a large number of appraisal variables
+\cite{scherer:expression-appraisal}
 \cite{smith:computational-facial-expression}, or try to map appraisal variables
 into a limited and small number of discrete expressions
 \cite{elliott:affective-reasoner}. For a similar reason, dimensional models also
